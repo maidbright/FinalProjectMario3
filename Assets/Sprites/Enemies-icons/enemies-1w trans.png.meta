@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: c1ae8ff74bcef8c4282dfe53b93368c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemies-1w trans_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b219e3f25fa1341b47edbd3371bab2
+      internalID: -1471632002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 341
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7deed768b705234591579e1cfbb4b8d
+      internalID: 2064219851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 341
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2422538195c794ba20dc8778b2fb4c
+      internalID: 1248688049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 338
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3888f5d4a48280c4eb615257848ae8e6
+      internalID: -425260669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 338
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f283e98a187ad64c844866a3238a929
+      internalID: 1715645121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 338
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3e8f4a3296504a94636da4043af20
+      internalID: 129488629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 338
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ff22e323124447bc8935be8abe338
+      internalID: 459099222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 338
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008df2180674b5a44b0a152f60e80ffe
+      internalID: 1070576450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 303
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbe0ec3f7be7b4c8a9b421592ba6cb
+      internalID: 1625452192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11301524c6b5da40b3e918b625b1cf3
+      internalID: -949001287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e73be3e887a849b4ac8299e0554f0
+      internalID: -122165481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 309
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60922d1eb72ae4cb3c67cd5c37e5f2
+      internalID: 228779961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 309
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615aadeb805b6534d83afc7492fac628
+      internalID: 1183901150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 309
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f00df2ed03bc40825718c3a0fdf29
+      internalID: 1832760451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 309
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49733bb98a2bf5d45b2ad0c471dd8516
+      internalID: -346030750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_15
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fdb86f2d3ec1643b235286c5bf0598
+      internalID: -808353707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 310
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0834861556ae4e991aff4a28e84a5
+      internalID: 405346686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 310
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8562e547275655d4f87d286f30c5434a
+      internalID: -810488534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 265
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281461452f3d5db49b7d5f2f612371c4
+      internalID: -1512713045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_19
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 275
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206030c822bcdf244be43ac7ad40dee3
+      internalID: 87085478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 275
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da4b9519f730a4aaa05c68153acf98
+      internalID: 263644776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 277
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60482cd0b59cde84a9b4b69d6dcc3cfe
+      internalID: -1274980135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75432d1c55a5d1746ac1b9cbef62a7e1
+      internalID: -1448188674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c35c987668364b917a8d8d1854aee
+      internalID: -2082273531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 282
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af2ef8ee2fb3f479f819e9bb8a20fc
+      internalID: 1349283770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 265
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d9a8c13f0a0a4191c4289585a9474
+      internalID: 1601843196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 237
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09588384533fb4ab745efc249f6e7b
+      internalID: 346252350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8302ca85bfef85649bd8c3d11ead3154
+      internalID: 1614797319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f225de8f3fa94391ec093ebff7977
+      internalID: 978192832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9576cc4116d76ba408909a18c4f75cb1
+      internalID: -294950712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a905f747de44fb4fa13d24e4a911c4b
+      internalID: -1856899363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 248
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a43fabd900e24eb6535b41e795f05
+      internalID: -2027745411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 248
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89905e99affca43b40dea7d0ff9855
+      internalID: -932209544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee755de4b1f9d4d96564b1e55f21a7
+      internalID: -870190123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585dfc83a4afb44ba4e6b8c79b2364b
+      internalID: 1773909781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 225
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8161fa6b8d43fe4ca9471c9a2b8b00d
+      internalID: 439123602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3331eb7efe8c75440bd5e20d1d8abc8b
+      internalID: 261916121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 212
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc240f66f83104399ddc6957f45882
+      internalID: 1809825818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 212
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9baa9ccb6172a542a45beba60935261
+      internalID: -1757029091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 232
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146845e1e5aeaa34abe59c497e1c29e3
+      internalID: 138967438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 231
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bd6c55d4ea6734bb6eb34c83dee24b
+      internalID: -740051288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1fb94d50088145b0a89d8b9a7a238
+      internalID: 2069226748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f6b1435f6bc4408ec81b78315f34f
+      internalID: -316810551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f426e42ad21ad045b9d5315e6d38723
+      internalID: -2029973018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af59db6d6c17cf42b3fa3ac618c61e9
+      internalID: -2097416055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 204
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede2a3df218c804183cb73c2c4817ca
+      internalID: -1591037730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 201
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72acb9bd8ae4b444d87c1d0f3566e1ad
+      internalID: 444315169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 208
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94e31f49f71dd4886e20c2b84a9df3
+      internalID: -915552038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 203
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc8d3f4e3a64243bc2bb3509b33158
+      internalID: -816391832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 178
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42b6ff159a19e4389f17c6807f009d
+      internalID: -935422612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c24c865005134282f129b6fe5dd0d
+      internalID: 921530305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_51
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7937b7d362114c94dc38bfc43987c
+      internalID: -548949067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28572cd2238a56248ab3a77ff04428cb
+      internalID: 1171801775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08abe30d597a63143aa2a61db1ace9a7
+      internalID: -1116972911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_54
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f974766b68e2f847a11d133969ab020
+      internalID: -134900431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 187
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1468c1b320999a84ba19aa105cdd4218
+      internalID: -1459737523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_56
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94999a1a9e376e648bc8d950efebe72a
+      internalID: 14010746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 181
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e32fe92c7ba94eb2539e35da83ecf
+      internalID: 1154941809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 177
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a50bcb8952df44ae1149acf7a1d7c
+      internalID: -2129560755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 149
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb378fa38b09f4fa948f48031ee477
+      internalID: -648339295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1fccf8c9ccb8648982aba9fc3813b3
+      internalID: 1484914571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 152
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be14e82b50e9f47827e6d846fccbf2
+      internalID: 258953594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 164
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e50977a9339dd44946c9f525ff50d1
+      internalID: 220299324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 167
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6ac28c6c921034c89a7ffa0766a11e
+      internalID: -67655427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 155
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6b59f03cb7c64393f48e9ff37f9de
+      internalID: 677457972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 153
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848b56c5d47083c45a5d33c17b98a7f9
+      internalID: 2092614403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_66
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 151
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a2be08edb0af489feee97b97b5340
+      internalID: 514841363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_67
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 152
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3123eb2a1c601a845adaac0c67c4a1e8
+      internalID: -1751048663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_68
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 142
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d39902274eb4dd46ab46fb830ae7ce4
+      internalID: -1324657394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9bc3eae589be428f999b2e3d85bf9
+      internalID: 501420661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbbca8e3ea3e544ea2c9c361f205d9e
+      internalID: 1042308395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_71
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86947e8ca117a004f94407f1d2c6ca4d
+      internalID: 1749176988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9552d0d9dbb9c4a84dd64b48c3fb6e
+      internalID: -1503836837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62df8fe8a8524d646afe82c62f91b961
+      internalID: -1205220360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_74
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 118
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ded11bb6c5de41b90b63bf063838b
+      internalID: -250328714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 95
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aa0011dc0b7ca4da5fb7e3882ea8fe
+      internalID: 1419617681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15efe6366573d934da73cb2034f4c08b
+      internalID: 622691257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 97
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b91034f6dbc14eaa9648ea4ecd679
+      internalID: -196845944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_78
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6a25f704245f4baae50dcafa726ce
+      internalID: 974036249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 66
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295afa37e1f270a438a97ae5ccd40cae
+      internalID: 1383308663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9925d7c92d336dd4481f161ff60d50f0
+      internalID: -1891089908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_81
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 64
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b67e2545dd71488e156ef7d8769d7
+      internalID: 977765354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_82
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 64
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2c622bed351b4cb394af0dd0677fc
+      internalID: 1433572572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827d93d5d519b548b268cc7b6ed4339
+      internalID: -532560688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_84
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e386aa6e31f624d8e3d8c68fe8c404
+      internalID: -343817121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2117adfe041c0841a4d392571808892
+      internalID: -1681697426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 34
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692837c0c202b949b5f0358247eb83f
+      internalID: -1535543990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_108
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e23d6ca4e01194b81504fda74eb26f
+      internalID: 1948912082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd03f8ad4da13242b5448a32e90f821
+      internalID: -1480281796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_110
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8bcbb416ad06d4f9d53a21d604506d
+      internalID: 347678335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_111
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc637465df8af5459ca0b0bd3a44c40
+      internalID: -2104280431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf80c67cbe4564c8e093828b85b309
+      internalID: -1988335525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_128
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef81750afd5959249919f7abca7fdbff
+      internalID: 1257724000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_129
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 110
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6e630b5e2bd848bedf453a3fe397c
+      internalID: -1492017806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_130
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 95
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f30aa7c1821a04585adf54c5b59ad2
+      internalID: -243951702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemies-1w trans_131
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 97
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec04a8d386f3f44a9bc572fe67a458e
+      internalID: -2122260899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      enemies-1w trans_0: -1471632002
+      enemies-1w trans_1: 2064219851
+      enemies-1w trans_10: -122165481
+      enemies-1w trans_100: -1832197986
+      enemies-1w trans_101: -1195274159
+      enemies-1w trans_102: -1459417707
+      enemies-1w trans_103: -532113625
+      enemies-1w trans_104: 1062557890
+      enemies-1w trans_105: -136698149
+      enemies-1w trans_106: -764135910
+      enemies-1w trans_107: 1633274528
+      enemies-1w trans_108: 1948912082
+      enemies-1w trans_109: -1480281796
+      enemies-1w trans_11: 228779961
+      enemies-1w trans_110: 347678335
+      enemies-1w trans_111: -2104280431
+      enemies-1w trans_112: -1988335525
+      enemies-1w trans_113: -61644786
+      enemies-1w trans_114: -1263621688
+      enemies-1w trans_115: -103342250
+      enemies-1w trans_116: -1847956832
+      enemies-1w trans_117: -1182490297
+      enemies-1w trans_118: -467550991
+      enemies-1w trans_119: -1269398620
+      enemies-1w trans_12: 1183901150
+      enemies-1w trans_120: -1265963130
+      enemies-1w trans_121: -1997846960
+      enemies-1w trans_122: 1382677361
+      enemies-1w trans_123: -474235353
+      enemies-1w trans_124: -1693754695
+      enemies-1w trans_125: 731579673
+      enemies-1w trans_126: -495049101
+      enemies-1w trans_127: 1153954901
+      enemies-1w trans_128: 1257724000
+      enemies-1w trans_129: -1492017806
+      enemies-1w trans_13: 1832760451
+      enemies-1w trans_130: -243951702
+      enemies-1w trans_131: -2122260899
+      enemies-1w trans_14: -346030750
+      enemies-1w trans_15: -808353707
+      enemies-1w trans_16: 405346686
+      enemies-1w trans_17: -810488534
+      enemies-1w trans_18: -1512713045
+      enemies-1w trans_19: 87085478
+      enemies-1w trans_2: 1248688049
+      enemies-1w trans_20: 263644776
+      enemies-1w trans_21: -1274980135
+      enemies-1w trans_22: -1448188674
+      enemies-1w trans_23: -2082273531
+      enemies-1w trans_24: 1349283770
+      enemies-1w trans_25: 1601843196
+      enemies-1w trans_26: 346252350
+      enemies-1w trans_27: 1614797319
+      enemies-1w trans_28: 978192832
+      enemies-1w trans_29: -294950712
+      enemies-1w trans_3: -425260669
+      enemies-1w trans_30: -1856899363
+      enemies-1w trans_31: -2027745411
+      enemies-1w trans_32: -932209544
+      enemies-1w trans_33: -870190123
+      enemies-1w trans_34: 1773909781
+      enemies-1w trans_35: 439123602
+      enemies-1w trans_36: 261916121
+      enemies-1w trans_37: 1809825818
+      enemies-1w trans_38: -1757029091
+      enemies-1w trans_39: 138967438
+      enemies-1w trans_4: 1715645121
+      enemies-1w trans_40: -740051288
+      enemies-1w trans_41: 2069226748
+      enemies-1w trans_42: -316810551
+      enemies-1w trans_43: -2029973018
+      enemies-1w trans_44: -2097416055
+      enemies-1w trans_45: -1591037730
+      enemies-1w trans_46: 444315169
+      enemies-1w trans_47: -915552038
+      enemies-1w trans_48: -816391832
+      enemies-1w trans_49: -935422612
+      enemies-1w trans_5: 129488629
+      enemies-1w trans_50: 921530305
+      enemies-1w trans_51: -548949067
+      enemies-1w trans_52: 1171801775
+      enemies-1w trans_53: -1116972911
+      enemies-1w trans_54: -134900431
+      enemies-1w trans_55: -1459737523
+      enemies-1w trans_56: 14010746
+      enemies-1w trans_57: 1154941809
+      enemies-1w trans_58: -2129560755
+      enemies-1w trans_59: -648339295
+      enemies-1w trans_6: 459099222
+      enemies-1w trans_60: 1484914571
+      enemies-1w trans_61: 258953594
+      enemies-1w trans_62: 220299324
+      enemies-1w trans_63: -67655427
+      enemies-1w trans_64: 677457972
+      enemies-1w trans_65: 2092614403
+      enemies-1w trans_66: 514841363
+      enemies-1w trans_67: -1751048663
+      enemies-1w trans_68: -1324657394
+      enemies-1w trans_69: 501420661
+      enemies-1w trans_7: 1070576450
+      enemies-1w trans_70: 1042308395
+      enemies-1w trans_71: 1749176988
+      enemies-1w trans_72: -1503836837
+      enemies-1w trans_73: -1205220360
+      enemies-1w trans_74: -250328714
+      enemies-1w trans_75: 1419617681
+      enemies-1w trans_76: 622691257
+      enemies-1w trans_77: -196845944
+      enemies-1w trans_78: 974036249
+      enemies-1w trans_79: 1383308663
+      enemies-1w trans_8: 1625452192
+      enemies-1w trans_80: -1891089908
+      enemies-1w trans_81: 977765354
+      enemies-1w trans_82: 1433572572
+      enemies-1w trans_83: -532560688
+      enemies-1w trans_84: -343817121
+      enemies-1w trans_85: -1681697426
+      enemies-1w trans_86: -1535543990
+      enemies-1w trans_87: 382840124
+      enemies-1w trans_88: 295938122
+      enemies-1w trans_89: -863154367
+      enemies-1w trans_9: -949001287
+      enemies-1w trans_90: -1122115708
+      enemies-1w trans_91: -1902076636
+      enemies-1w trans_92: 331672764
+      enemies-1w trans_93: 1772085000
+      enemies-1w trans_94: -471580882
+      enemies-1w trans_95: 718371346
+      enemies-1w trans_96: -2131334619
+      enemies-1w trans_97: -2131664999
+      enemies-1w trans_98: -1867923355
+      enemies-1w trans_99: -1225444751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

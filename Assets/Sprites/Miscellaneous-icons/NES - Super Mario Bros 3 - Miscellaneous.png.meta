@@ -1,0 +1,2803 @@
+fileFormatVersion: 2
+guid: a2514d0adf731a04180c4c306a5fc6bd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 357
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97f790f8fd3064eac21229b8f64f4c
+      internalID: -1599832654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 357
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286f9a6be3a1d52459af9577fb5767b3
+      internalID: 879976946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160dc9bba1d64e4ea2ade2c01784a03
+      internalID: -1521455928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 392
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd832f65d3b473049b4f629d68c6273a
+      internalID: -1578401518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6c3cf653fcb634da555f2fc568812e
+      internalID: 1800775498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 388
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027d744e1fddbb9478efa9e998737eed
+      internalID: -343770149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 344
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febb4d0469501f1499172889a4576b49
+      internalID: -1295422782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 357
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377cbc233bb25b24f8f49ad24d76d7f8
+      internalID: 1957137931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 357
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed3564a477db24bb96a76540b59c3f
+      internalID: -531253051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 355
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4daa8528afb35e498a9418f4d3a4e47
+      internalID: 1230685662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 355
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c10be5d7ef1d4e816315bbafcc81d
+      internalID: -1841796041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 358
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868b18ecce1a832439ccb40b935fc7a4
+      internalID: 310727586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 357
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a5e0a09ae20cc40af0efda4faca615
+      internalID: -1937877438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 300
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70380fb80e6088942b4b0077e5d368d6
+      internalID: -597747017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 300
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c1d63ba25b63d4d96ed50fcb0fe620
+      internalID: 2094764421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 301
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9624d27e480c9f4f89420e20ba25e5f
+      internalID: 1397870849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 301
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99c000d988a314d8e5b84744fbbb2f
+      internalID: 2008977186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 318
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ffc2c0af4320a44ad87eff9c55aed1
+      internalID: 73095847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 318
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca7b59d0c97eb4a9f3baec34552018
+      internalID: 1469715527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 318
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb5097cf94309499211e881835490a
+      internalID: 1181287752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f84db4c1055aa34abe26a6be4b6ea57
+      internalID: 1207593083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b3e7b13f09b33438cbe13b7cec5ab5
+      internalID: -180252495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_22
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 318
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c597d781a69fac49bcc4089ce2c9508
+      internalID: 1046547751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 318
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4602fb1f7c463438b9c1b703d5a2cd
+      internalID: -166106167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 318
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26077a0d6fe9b243830e4fa3ff6450c
+      internalID: 793809013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de33fc127d7124986af86de98df0d4
+      internalID: -732961107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab473edfbb8d5b4a8d8dec8b723856a
+      internalID: 1007923792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63ac9f8f1e51374aa5f386a78f09a86
+      internalID: -1998013356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d64d4cfb3d578a4bb2640d8511277ab
+      internalID: 271202244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03f336d3e073d7428cb7e03281032b8
+      internalID: -1949321675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d421cef7e832488eae5c98673d606
+      internalID: -2045267447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_31
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 297
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc31ad5eecfe65447bfa0a3b6a0181eb
+      internalID: 184024160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 275
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c822b954b06ae4b924ad95a77f74d7
+      internalID: -184187589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 297
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b2b1bc8cc3bf47b85d8647441b878
+      internalID: -1375944357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 296
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1ffc2502550b24191475329e78740f
+      internalID: -405138344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 296
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b197c70461bf144bbc652bfb31cd6e
+      internalID: -1806063499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 296
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91bf77a907c1c4e8bc2ed7c725efca
+      internalID: 343887572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_37
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 251
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d061f3f38ea089e45a8ccae771cc8fca
+      internalID: -1715602721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 251
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a57a1905095e4ba187fedb21fc8cb
+      internalID: -489732480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 249
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c3f5e679b19584c905dea73ad4bc2c
+      internalID: -1124880845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 249
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc96bda6c7dc242b12a2424a6516cd
+      internalID: 1437124336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3a0259e6eccd74ba7eeabc503280e7
+      internalID: -1984074247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 275
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873bcadc9d1abe744a7d5074a9e512c7
+      internalID: 1502403535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02205bc8c9c190146b1af8fa26111328
+      internalID: 763126800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dbcb158b284104f99b78a77413bd8d
+      internalID: -1954863002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394673e87b856e43908103d563f191e
+      internalID: 1633633882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 275
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042fa5564d02594cb5a6d45ea4a6c6b
+      internalID: -268011015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb3b74afdda6349b0d25a049ff12a1
+      internalID: -534202828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_48
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 275
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dbf7d2695f9374b9cb5d6e3e149396
+      internalID: -1631368336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e9ca468eae0e40a96f326e93e54a8
+      internalID: 127929000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e5ac68df790f42855ff1def4a44d4
+      internalID: -100616528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_51
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac822ae97b19c344be2866e1f88064d
+      internalID: 834353669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 252
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aab2f37d937fb40afc2c720d956d7e
+      internalID: -1204972355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8bcbf827b79b646815b4692f887dca
+      internalID: -906311507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_54
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc082ae6e3e10e479b81592d0b28f4f
+      internalID: 245965794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_55
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244c01a009da3145af61a4126aea7ee
+      internalID: -576619688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228151a6e51ca04b8cb059eac975470
+      internalID: 71706242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1499cd918682f34fa173be32613ab8c
+      internalID: 1572059014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 252
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b572c8d8edce6e4f886aa25221dd8c5
+      internalID: 1821427989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 252
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d1f5f03737a340b2acc96605e10a9
+      internalID: -1114467396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 197
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282d1a9e2bc444479bd72f00202583a
+      internalID: 736873808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 197
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f844d322be3cf54a80245953f9e4094
+      internalID: 2105811757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_62
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a526cb88affde24e89e634a15e6030a
+      internalID: -1630920424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_63
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a91b768f34b334da4377a04c982403
+      internalID: 963047326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05179956d5bf9cf4193b0393564e967e
+      internalID: 1291165437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45448e1bce9db41ac28033bf09039c
+      internalID: 1238323552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_66
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e4d09a2b021c48a0f81a551de4c15
+      internalID: 2108232028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_67
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d244224ea74f4b827fa76467b566e
+      internalID: -1037681416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_68
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481997223fee9b4e9767b922c532739
+      internalID: -324113274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_69
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524f0e4b388ad64ebfbf99c73f5d716
+      internalID: -1167063258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_70
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc08ca104fee4b244b59e21a2948f261
+      internalID: 2016950365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_71
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 229
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6938699e902e0e4899801cbc7e2932b
+      internalID: 1611588843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 229
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee42bb97c0cb2ba4b9055c311cfda4ee
+      internalID: -1246630028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957e0a37cdf9ba142b76da81f95d32cd
+      internalID: 1548043220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_74
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 197
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a6a130ff21b6c4588f3dbec9f61410
+      internalID: 920884785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_75
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd8797b23f537e4b91b3993f1b71798
+      internalID: -2068253210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c321afaedeb3635469fedb3d4dfcbcfd
+      internalID: 1942558315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f7947322da3b147a7b84c9cbdc56e3
+      internalID: -855057331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7d94b7a4f1e1f4f9e25251db97b891
+      internalID: -66747336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_79
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d228fc6b3d5de549bc2e0f07d46f7c3
+      internalID: 1941366677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_80
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48ed69123c9fc147ad4d69efc462ffe
+      internalID: -1962018184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_81
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc7d519a047a845b2898b83d200e2f
+      internalID: -1730789474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa0be89540e8b4abd1478f1d653cd5
+      internalID: -435724800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1fd4f6237304e41832dfa246fa61e6
+      internalID: 220299161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_84
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805941459020a64bb510439e803a3ff
+      internalID: -1524302476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_85
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988982b1207cf649ae54cf3a0cd9a3e
+      internalID: 625304974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_86
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9ded3775a6d44589e35d0d891a6e6
+      internalID: -429974763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_87
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2138a6f6cafe4eb5196727e36834e
+      internalID: -1521456249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_88
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4beb9a4e6b0e4ba646ae9eba9ddf0
+      internalID: 1363515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_89
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 140
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438157d99f22b6748a6dfb23e76838dc
+      internalID: 405533347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 140
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1634d101635940926430ec6823bc3
+      internalID: 1084658144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_91
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39090bacaa56a284badf445366e99530
+      internalID: 321701644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5f5a759fdcb248a5e5a3454dab99e
+      internalID: 1202607986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_93
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291430ea07f293e43a0876326fd69c6b
+      internalID: -1455026101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_94
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acfca4d6d169240865743b346561d4
+      internalID: 285452395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6516c8c1053847823ca07cbf74925
+      internalID: 893655216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_96
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 171
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69aade6e6524b14abfe2934153a5241
+      internalID: -445714709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 171
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c722188fef3e5a042a4eef5a40b1deb9
+      internalID: 326895244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 140
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f5ed5394097dc48980a6598a488ffd
+      internalID: -1971123726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bdc3f70b9203342a4a793487c59841
+      internalID: 1041900046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_100
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 130
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c579bff8c82535c4abd8d29857d1fe82
+      internalID: -1154225113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 133
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d451878cbf2a93a45a7181a16d8c9aa0
+      internalID: 438104277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 133
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cab6950d0b6074c952ecc15a079b25
+      internalID: -2066141341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_103
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 133
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53bb68c2c04e5479e534e091568ab1
+      internalID: -269652800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 98
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf014604eec286345a33b66bb8998a35
+      internalID: 2015934163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d3178193f2ed4ab09a7ac12773923
+      internalID: -1942548784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_106
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 118
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2a696f8b9ad842985c089886824b0
+      internalID: -804256337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50b58b75fa94048b1e5a9940215bd2
+      internalID: 704017933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_109
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba812933dccc4d46886e44b70753c28
+      internalID: 629632242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590a8802fe5e0a84195f94e15579fce1
+      internalID: -983719458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5ce6b2ec022684cac0706b766fda7f
+      internalID: 1112384533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_112
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf236d036677c454c907356f565e1be8
+      internalID: -107253216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f89551cddf41543aed087b594fe5aa
+      internalID: 1048462547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_114
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3317531bf1c5b046bd251eca997d92d
+      internalID: 620355712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_115
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fc16e67ca66b46b416390e19526ca
+      internalID: -743109373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_116
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4439b2ddce1b57e448ac4e606d6b911e
+      internalID: 415334874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_117
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826188801a6a4a34eb12943dadd722dd
+      internalID: 1598501877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_118
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd06ed771f4c648ab552b841dd0bc1
+      internalID: 68246647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356368fb1f278f84daf856087c362cdd
+      internalID: 1082110592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d802b170b530b554bb3a316f2673b31d
+      internalID: 2023661535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Miscellaneous_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b252ed1f7902c4cae62e63cc736be0
+      internalID: -144278232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros 3 - Miscellaneous_0: -1599832654
+      NES - Super Mario Bros 3 - Miscellaneous_1: 879976946
+      NES - Super Mario Bros 3 - Miscellaneous_10: -1841796041
+      NES - Super Mario Bros 3 - Miscellaneous_100: -1154225113
+      NES - Super Mario Bros 3 - Miscellaneous_101: 438104277
+      NES - Super Mario Bros 3 - Miscellaneous_102: -2066141341
+      NES - Super Mario Bros 3 - Miscellaneous_103: -269652800
+      NES - Super Mario Bros 3 - Miscellaneous_104: 2015934163
+      NES - Super Mario Bros 3 - Miscellaneous_105: -1942548784
+      NES - Super Mario Bros 3 - Miscellaneous_106: -804256337
+      NES - Super Mario Bros 3 - Miscellaneous_107: -1305801632
+      NES - Super Mario Bros 3 - Miscellaneous_108: 704017933
+      NES - Super Mario Bros 3 - Miscellaneous_109: 629632242
+      NES - Super Mario Bros 3 - Miscellaneous_11: 310727586
+      NES - Super Mario Bros 3 - Miscellaneous_110: -983719458
+      NES - Super Mario Bros 3 - Miscellaneous_111: 1112384533
+      NES - Super Mario Bros 3 - Miscellaneous_112: -107253216
+      NES - Super Mario Bros 3 - Miscellaneous_113: 1048462547
+      NES - Super Mario Bros 3 - Miscellaneous_114: 620355712
+      NES - Super Mario Bros 3 - Miscellaneous_115: -743109373
+      NES - Super Mario Bros 3 - Miscellaneous_116: 415334874
+      NES - Super Mario Bros 3 - Miscellaneous_117: 1598501877
+      NES - Super Mario Bros 3 - Miscellaneous_118: 68246647
+      NES - Super Mario Bros 3 - Miscellaneous_119: 1082110592
+      NES - Super Mario Bros 3 - Miscellaneous_12: -1937877438
+      NES - Super Mario Bros 3 - Miscellaneous_120: 2023661535
+      NES - Super Mario Bros 3 - Miscellaneous_121: -144278232
+      NES - Super Mario Bros 3 - Miscellaneous_13: -597747017
+      NES - Super Mario Bros 3 - Miscellaneous_14: 2094764421
+      NES - Super Mario Bros 3 - Miscellaneous_15: 1397870849
+      NES - Super Mario Bros 3 - Miscellaneous_16: 2008977186
+      NES - Super Mario Bros 3 - Miscellaneous_17: 73095847
+      NES - Super Mario Bros 3 - Miscellaneous_18: 1469715527
+      NES - Super Mario Bros 3 - Miscellaneous_19: 1181287752
+      NES - Super Mario Bros 3 - Miscellaneous_2: -1521455928
+      NES - Super Mario Bros 3 - Miscellaneous_20: 1207593083
+      NES - Super Mario Bros 3 - Miscellaneous_21: -180252495
+      NES - Super Mario Bros 3 - Miscellaneous_22: 1046547751
+      NES - Super Mario Bros 3 - Miscellaneous_23: -166106167
+      NES - Super Mario Bros 3 - Miscellaneous_24: 793809013
+      NES - Super Mario Bros 3 - Miscellaneous_25: -732961107
+      NES - Super Mario Bros 3 - Miscellaneous_26: 1007923792
+      NES - Super Mario Bros 3 - Miscellaneous_27: -1998013356
+      NES - Super Mario Bros 3 - Miscellaneous_28: 271202244
+      NES - Super Mario Bros 3 - Miscellaneous_29: -1949321675
+      NES - Super Mario Bros 3 - Miscellaneous_3: -1578401518
+      NES - Super Mario Bros 3 - Miscellaneous_30: -2045267447
+      NES - Super Mario Bros 3 - Miscellaneous_31: 184024160
+      NES - Super Mario Bros 3 - Miscellaneous_32: -184187589
+      NES - Super Mario Bros 3 - Miscellaneous_33: -1375944357
+      NES - Super Mario Bros 3 - Miscellaneous_34: -405138344
+      NES - Super Mario Bros 3 - Miscellaneous_35: -1806063499
+      NES - Super Mario Bros 3 - Miscellaneous_36: 343887572
+      NES - Super Mario Bros 3 - Miscellaneous_37: -1715602721
+      NES - Super Mario Bros 3 - Miscellaneous_38: -489732480
+      NES - Super Mario Bros 3 - Miscellaneous_39: -1124880845
+      NES - Super Mario Bros 3 - Miscellaneous_4: 1800775498
+      NES - Super Mario Bros 3 - Miscellaneous_40: 1437124336
+      NES - Super Mario Bros 3 - Miscellaneous_41: -1984074247
+      NES - Super Mario Bros 3 - Miscellaneous_42: 1502403535
+      NES - Super Mario Bros 3 - Miscellaneous_43: 763126800
+      NES - Super Mario Bros 3 - Miscellaneous_44: -1954863002
+      NES - Super Mario Bros 3 - Miscellaneous_45: 1633633882
+      NES - Super Mario Bros 3 - Miscellaneous_46: -268011015
+      NES - Super Mario Bros 3 - Miscellaneous_47: -534202828
+      NES - Super Mario Bros 3 - Miscellaneous_48: -1631368336
+      NES - Super Mario Bros 3 - Miscellaneous_49: 127929000
+      NES - Super Mario Bros 3 - Miscellaneous_5: -343770149
+      NES - Super Mario Bros 3 - Miscellaneous_50: -100616528
+      NES - Super Mario Bros 3 - Miscellaneous_51: 834353669
+      NES - Super Mario Bros 3 - Miscellaneous_52: -1204972355
+      NES - Super Mario Bros 3 - Miscellaneous_53: -906311507
+      NES - Super Mario Bros 3 - Miscellaneous_54: 245965794
+      NES - Super Mario Bros 3 - Miscellaneous_55: -576619688
+      NES - Super Mario Bros 3 - Miscellaneous_56: 71706242
+      NES - Super Mario Bros 3 - Miscellaneous_57: 1572059014
+      NES - Super Mario Bros 3 - Miscellaneous_58: 1821427989
+      NES - Super Mario Bros 3 - Miscellaneous_59: -1114467396
+      NES - Super Mario Bros 3 - Miscellaneous_6: -1295422782
+      NES - Super Mario Bros 3 - Miscellaneous_60: 736873808
+      NES - Super Mario Bros 3 - Miscellaneous_61: 2105811757
+      NES - Super Mario Bros 3 - Miscellaneous_62: -1630920424
+      NES - Super Mario Bros 3 - Miscellaneous_63: 963047326
+      NES - Super Mario Bros 3 - Miscellaneous_64: 1291165437
+      NES - Super Mario Bros 3 - Miscellaneous_65: 1238323552
+      NES - Super Mario Bros 3 - Miscellaneous_66: 2108232028
+      NES - Super Mario Bros 3 - Miscellaneous_67: -1037681416
+      NES - Super Mario Bros 3 - Miscellaneous_68: -324113274
+      NES - Super Mario Bros 3 - Miscellaneous_69: -1167063258
+      NES - Super Mario Bros 3 - Miscellaneous_7: 1957137931
+      NES - Super Mario Bros 3 - Miscellaneous_70: 2016950365
+      NES - Super Mario Bros 3 - Miscellaneous_71: 1611588843
+      NES - Super Mario Bros 3 - Miscellaneous_72: -1246630028
+      NES - Super Mario Bros 3 - Miscellaneous_73: 1548043220
+      NES - Super Mario Bros 3 - Miscellaneous_74: 920884785
+      NES - Super Mario Bros 3 - Miscellaneous_75: -2068253210
+      NES - Super Mario Bros 3 - Miscellaneous_76: 1942558315
+      NES - Super Mario Bros 3 - Miscellaneous_77: -855057331
+      NES - Super Mario Bros 3 - Miscellaneous_78: -66747336
+      NES - Super Mario Bros 3 - Miscellaneous_79: 1941366677
+      NES - Super Mario Bros 3 - Miscellaneous_8: -531253051
+      NES - Super Mario Bros 3 - Miscellaneous_80: -1962018184
+      NES - Super Mario Bros 3 - Miscellaneous_81: -1730789474
+      NES - Super Mario Bros 3 - Miscellaneous_82: -435724800
+      NES - Super Mario Bros 3 - Miscellaneous_83: 220299161
+      NES - Super Mario Bros 3 - Miscellaneous_84: -1524302476
+      NES - Super Mario Bros 3 - Miscellaneous_85: 625304974
+      NES - Super Mario Bros 3 - Miscellaneous_86: -429974763
+      NES - Super Mario Bros 3 - Miscellaneous_87: -1521456249
+      NES - Super Mario Bros 3 - Miscellaneous_88: 1363515831
+      NES - Super Mario Bros 3 - Miscellaneous_89: 405533347
+      NES - Super Mario Bros 3 - Miscellaneous_9: 1230685662
+      NES - Super Mario Bros 3 - Miscellaneous_90: 1084658144
+      NES - Super Mario Bros 3 - Miscellaneous_91: 321701644
+      NES - Super Mario Bros 3 - Miscellaneous_92: 1202607986
+      NES - Super Mario Bros 3 - Miscellaneous_93: -1455026101
+      NES - Super Mario Bros 3 - Miscellaneous_94: 285452395
+      NES - Super Mario Bros 3 - Miscellaneous_95: 893655216
+      NES - Super Mario Bros 3 - Miscellaneous_96: -445714709
+      NES - Super Mario Bros 3 - Miscellaneous_97: 326895244
+      NES - Super Mario Bros 3 - Miscellaneous_98: -1971123726
+      NES - Super Mario Bros 3 - Miscellaneous_99: 1041900046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

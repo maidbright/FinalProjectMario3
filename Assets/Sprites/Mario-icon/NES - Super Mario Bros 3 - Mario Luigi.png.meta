@@ -1,0 +1,4583 @@
+fileFormatVersion: 2
+guid: 1ca2e4b271a7e49478f64ea148ba3f7d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 409
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b38da529be0f98428e8ddb17c2e77d9
+      internalID: 1081679588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 409
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2d9e3622c8484c83872a5fe9a32ae
+      internalID: 42996755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 409
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d26570d471cc448b8ec9df6675e3e1
+      internalID: 1746957507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 409
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619bac6951b805b439217d0bd58f0f4e
+      internalID: 1008688305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 409
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a698a5f35e561b148a48c79f5373665f
+      internalID: 1519618786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c7c0eeaa56bb43bd16b6eef51c291
+      internalID: 306092809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8fae1afccb1a3418a8573f164c00fe
+      internalID: -639386672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ad9098c09a31409ccc2d557457fdc
+      internalID: 482582717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd946dd922956e449e8c330cfe8bd50
+      internalID: 142460204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 409
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523e3f6347488d4ba62db46fba7ac5c
+      internalID: 1901310075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc442ac0430454440baaab8dada76c65
+      internalID: -1801287633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac75f6914f25b1429f58aac7a53ba5d
+      internalID: 1967368404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 409
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e24cac33bd23714caddbd4949a0b426
+      internalID: -506735901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 409
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1977e712172c074cb8450aa408e7d73
+      internalID: 1838827464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f042775504562458fd9be40030dde8
+      internalID: -813102837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 409
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6a7ca0766d5ac41ba890236404213f
+      internalID: -582676222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 409
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f1de0113dc534ca40e3575a760fd4
+      internalID: -1245597172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 409
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87d72c09617ef644bcf13803aabb5ed
+      internalID: -1716795203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 409
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70891da754059e64ea4116791732cef0
+      internalID: -199331591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 409
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d6af2c17e8ed4f9adadeef672ae91
+      internalID: -2127498666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 409
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06094e74e8842428d5800213489beb
+      internalID: 2009070676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 389
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88a475d4d7a12041b237a947af4afaf
+      internalID: 1212811880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 389
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d8e499a026094990659e27e17404b
+      internalID: -2033717471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 389
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adbfa805f69e1b439c676a0d393ca04
+      internalID: -1330747400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 389
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c339729f234934e82c9abcd48a2186
+      internalID: -675866913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 389
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82506508be2bf354186a6115c3f341e9
+      internalID: 990694898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2ebcbca8a6054b8f9935ba6088a76
+      internalID: -1742669085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb59c34279e294ba909c6535f193d9
+      internalID: -95766117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a6cc6b9a6ae246939f9b5f378918f
+      internalID: -1949870869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4efd861c61df4b88f55c95eaa9c49
+      internalID: 1907200635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_30
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 389
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9050bad24b56e45bc1dee68b242f15
+      internalID: -1440017547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_31
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b2d3bc0b13a86468e7b91021660511
+      internalID: -661936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0309d509935462147aaef6553dc94910
+      internalID: 908403897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_33
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 389
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c4a121895f5c41af894af8ba2dbca
+      internalID: 2073669052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_34
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 389
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c69d87835c174a9d31a5d3bb90e0c
+      internalID: 2086507943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32571cdf77f0a43b2995b849929cde
+      internalID: 1043869765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27637d38162dcec4290ed2209b9e437b
+      internalID: 704675744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_37
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 389
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4bc416a18ad6542b935613f7147b61
+      internalID: 1855161132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 389
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53aab5d0af576f429d351ea5396df5e
+      internalID: 1214643897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 389
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bac0c88c6ceec44b5595d1857e7c2e
+      internalID: 1913471862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_40
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 389
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbee1a2f11595c43aeb82dd5b2ec64c
+      internalID: 549880226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 389
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fd75821b28cec4798b18165f6d8dd7
+      internalID: 375159539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed59ae2e706ec6479837785ea547bca
+      internalID: 1636291689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 358
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb4033fccfa8f349b36988a7359370b
+      internalID: 1975304399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 358
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d267517f243c045b39ef6eaa82295f
+      internalID: 1814108216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 358
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a74991a03a204a9fc171c799a197d
+      internalID: -1978822516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 358
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ed381411da2b344a47326d79e3f2b5
+      internalID: 458681705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 358
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc13b1d8198527498f2800f429ed884
+      internalID: -304905273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 358
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb2f1d0c4c47d419ceb870167a6654
+      internalID: 1025493782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 358
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0d73c8b1350c48a224b182db471da
+      internalID: -996879891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 358
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588d6ba53b086d41899134a6890b9a3
+      internalID: -1067329703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_51
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 358
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0225480a101a09e44be2c36537b08dd9
+      internalID: 763456694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_52
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 358
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781e0de1032dee44b3e88b6c36d4e12
+      internalID: -1504495138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 358
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8d437a86e2044fa82166098906b2b
+      internalID: -488062203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_54
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 358
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13155cf7260a52541b524bd9a2f11377
+      internalID: -1206899568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 358
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e509114f5b6a6e941bd045a5b6ee9bc2
+      internalID: 659999429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 358
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90229a35cbe9aa47b8a9641833bdd88
+      internalID: 1150112877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 358
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129150f07d82bb04b81a4470e794a5c6
+      internalID: 1516383003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 358
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe700ca6353a02741b232ea7be8e36ca
+      internalID: -78001946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_59
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 358
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58cf433c787ebf4d9aea2ab8a53cd22
+      internalID: 533924676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 358
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39872ff0984afd44f810202c9741463c
+      internalID: -834273236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_61
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 358
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d750770679bbf4090291b81fd75989
+      internalID: 2076010257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_62
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 358
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943d6c6a5333044a849b45712e97dbf
+      internalID: -729146298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_63
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 358
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a67633aa8647b489787e0d4150d16c
+      internalID: -665824783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_64
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 358
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d987a2a2f74e40b499a8e600474e801d
+      internalID: 596238111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_65
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 358
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d292f4976209234e9978123a9d0cf00
+      internalID: -342329216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 358
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d3e8af6f022d409ee91d8985b66c0
+      internalID: -799128094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_67
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 328
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c285ceda9e2a864cbba86935510f735
+      internalID: 283958644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 328
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0d16c14d7702d44808b7a9dc312606
+      internalID: 1296681333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 328
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4d5719cbf822a489298b14e2d2cccb
+      internalID: 1060929658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_70
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 328
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a887bc73b37f41ad539bfd2bae216
+      internalID: 1535472284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_71
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 328
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6ba16d3b439ba4a97b539a9bf963d2
+      internalID: -1267040258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 328
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7859231603165a4cb9c601e9403d2e9
+      internalID: 1858695141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 328
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1fe284a63f5e44bf223bc848bff2b
+      internalID: 634207713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_74
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 328
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa981d8363a6774bb4cf80db32c8340
+      internalID: 1903106968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_75
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 328
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a5622630fde440b2e4c9af2255f80
+      internalID: 1110696738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_76
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 328
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45745d177e9c89b41aee1bd705beb97e
+      internalID: 2064293758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 328
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2166d08ff100d41b3d92a9fc784b28
+      internalID: -1237665692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_78
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 328
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f70d813826c8b94fa2af71d3d4c2329
+      internalID: 1798545393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 328
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f518f69c9154e94e8f558a19dfb4eb8
+      internalID: 1104836664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_80
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 328
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf74c500fcde754284d74e39f37e1a7
+      internalID: 411400289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 328
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb575fe97185d4c9e0beaeaa52815a
+      internalID: 1587614807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_82
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 328
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a08902cf2c42543b402f8d86d0682e
+      internalID: -1339581494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_83
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 328
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a799c2e838c250445b3870b85bd1bba9
+      internalID: 1242740893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_84
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 328
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a03d88ae168864cbfc07c4ee5a4dbd
+      internalID: 440845741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 328
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7f9807fb0a61d4e94fd7a85309889b
+      internalID: 1583015277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 328
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5f78b245026d4792f1ad870e928ff
+      internalID: -1300065989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_87
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 328
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d346d20541f2f848bc923487d1924cf
+      internalID: 728996699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_88
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 328
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350996fbf0862b74a83793578e8b3103
+      internalID: -574084286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_89
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 328
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9ba988525ccd4a925c55bc15f4cbc
+      internalID: 302831156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_90
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 328
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42135c26002f1419cad236af2cb0de
+      internalID: -456101232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 328
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ac88f4596289546ae775332f7732af
+      internalID: 709442652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_92
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 297
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbbc730f5199d24194f9f2997b5d434
+      internalID: 723272708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_93
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 297
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf3ab33decdc3748b8466ab594d2dc9
+      internalID: -576617879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 301
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339ec8b826ee55945b5316394b152e35
+      internalID: 461625408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 301
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f8b81e4b5645c41b1ec0b8ea39c6f9
+      internalID: -1589299477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 301
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3803ab3a7e6c794e9e68f7a0d17b056
+      internalID: -181756033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_97
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 301
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07776cf7223141145a464f87fd063af6
+      internalID: 1611682524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_98
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 297
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2a3642a801c9f488ca6d7deb010776
+      internalID: -114374944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_99
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 297
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34bc139c1093e34bac2aa0f9c4278ec
+      internalID: -1632030475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_100
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 297
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7382f47dedbc3444eb200d66e5f1f275
+      internalID: -1985579715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_101
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 297
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61caf9ab4fce1cc428bd1fcad49bcca1
+      internalID: -493564243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_102
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 297
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af92811c057a104b8e404bbaa59999c
+      internalID: -1389676834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_103
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 297
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0009ff4ffe63429ec1aff91278f24
+      internalID: -513797029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_104
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 297
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071e4e71479d134f8fcb9a5f3a3721f
+      internalID: 1770890085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_105
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 297
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8002d089f1cc0a8428021d6284eb0ee9
+      internalID: -245638211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_106
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 297
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9999cc26169acc478e0d974cd239427
+      internalID: 31828535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_107
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 297
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f654e84d1ca4a47979dc4f3b19fc30
+      internalID: 1837682550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_108
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebd810fbc639e48812f2efa2243259
+      internalID: 395913559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_109
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 297
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d31f6ac82d8e42b5c9e75f609a4c8
+      internalID: 415058038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_110
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 297
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ce2f5ba937cb4d8c3e3a5fdc039f0
+      internalID: 510844630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_111
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 297
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd0bb901abbf4042950fb9a85326cb6
+      internalID: -1468564153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_112
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 297
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d970c1e46fe64b9e495bd10cdd0cd
+      internalID: 1739426494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_113
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 297
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ad57474bb3c14db1d731977ed6c46
+      internalID: 459414978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 297
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33088f42808d4746aa240fa20b58ade
+      internalID: 907585649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_115
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 297
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd22ed2a268ad64d88cbbe0f736ae35
+      internalID: -949486185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_116
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 297
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813fae24634e38440b3c0a8c05501bb7
+      internalID: -1309722082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_117
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 297
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe98f9f98499d94894a6e8739a46401
+      internalID: -646203819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_118
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 297
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241fa94994d6a56499393686d81ae282
+      internalID: 1592348827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_119
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 297
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da5aaeaac11094bb1f01511bc617e9
+      internalID: -800222032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_120
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 297
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905433c304aef1c42975574af72cbfd0
+      internalID: -2086619336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_121
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 297
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e2c5fc93f9f674aa18345f50f8f6e2
+      internalID: 832635979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_122
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 297
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3326e2186fe61479d824f80ae6de98
+      internalID: 1748153676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_123
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bcd705203fa9746b7e7bec5ca4d698
+      internalID: 482234826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_124
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0161901eacb4c71469f7ceb4941d2a47
+      internalID: 861881533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_125
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92b3a2d9c31e349b7f47dfdcc19360
+      internalID: -653601538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 263
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328390e0abc89141ad5845f710a507c
+      internalID: -917071775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 263
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e92fbf25f85741bc0735ddc30f610
+      internalID: 155897067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_128
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 263
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b3d6d3db2e484ca28f0899c13dde2
+      internalID: 1043811927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_129
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 263
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d795e9bd270f27d4eb871dcd4d422ffd
+      internalID: 1003370249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_130
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 263
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187884431e2576a4db5006d5befa8931
+      internalID: 492595238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_131
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 263
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2dcdcd5d3a91c4dab6b67e93c34a69
+      internalID: 1891088409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_132
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 263
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f9f1480f28e4f4f8037f574cb60488
+      internalID: -814664675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_133
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 263
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c832edf62816f47a190d7f97a87725
+      internalID: -775156488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_134
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf17f5c46f65b2e4f9c64d9a3893e331
+      internalID: 1471598218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_135
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 263
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73788fa3560c0488c628fe4d89f503
+      internalID: -745809405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 263
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015661de15b5c424aa8aa2a994bb0111
+      internalID: -1536794702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_137
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 263
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f35ca32d33a8141ab030668490f447
+      internalID: -1085253426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 263
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8195655abd5e43aae26495e27ba96
+      internalID: 476633191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_139
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c8d33483628f4d9b933d0f56a9527
+      internalID: -1150800019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_140
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 263
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d978fbbdcdb3448b25bb8742923ce4
+      internalID: -1691760963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_141
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 263
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59350c3871dd404a8697dd268e409e0
+      internalID: 2007829149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_142
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 263
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b5e64d4757ad4ea86f3682714a502
+      internalID: -1233780945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_143
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 263
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d54365ed63fe499140c186b2d4890
+      internalID: 403224012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_144
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 263
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff67d8d4d9ff864eb2fb9c29aa3f35b
+      internalID: -718440947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_145
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 263
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29158c388b671dd4fa90935a16a00da7
+      internalID: -1127869280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_146
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 263
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fb449494172234cb223e11a303eec8
+      internalID: -1873898448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_147
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 263
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f5d90d8e3ccb4ca7af0737cce25e0
+      internalID: -794838509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_148
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 263
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc0fbceb26c50439a464ff0e0febf1
+      internalID: 1077253739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_149
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 263
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365246c3da3c8e40a68eda85bb0fcd7
+      internalID: -282794156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_150
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 263
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef37994c67f404cae1ab527d982307
+      internalID: 1085958825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_151
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 263
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878a144ce9638348a4f42b782857e26
+      internalID: -1851246161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_152
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 263
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe368ec025a4a14a815303738f81546
+      internalID: 749842749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 263
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a766f497466324ab0179f3e4ab9b12
+      internalID: -1540468080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_154
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 263
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305f0a73be1264c8d06e2be2acadf7
+      internalID: -1877392373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_155
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 263
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bf59e217e9934a942f91524456235
+      internalID: 1298200335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_156
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 263
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4b840292cb654c861fb06adb4da39
+      internalID: -234659529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_157
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 263
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7471c724c2c43ca499dae40524631cd1
+      internalID: -1620516120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_158
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de05b254ec984e4c806c2deba29a7ec
+      internalID: 222484520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_159
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea073c82b71b25498e72b2b6af57253
+      internalID: -199719591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_160
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2965c72a58887479dd2954351c1d0b
+      internalID: 1941946968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_161
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 230
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526f0e4b8ea7a149b55bbaa78a2d521
+      internalID: 160380253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd2e96a04600a4abd85e14a206059c
+      internalID: -247157588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 230
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894625bab51bde428e4d323e2fef972
+      internalID: -191722752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_164
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 230
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dc146f75b885545abcfd98a68f5283
+      internalID: 1729834487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_165
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 230
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5183cf919b1736a4699b26dd55f95b9f
+      internalID: 1036183635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_166
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 230
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2687d7348596b046ae8582591e2884d
+      internalID: -707389204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_167
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 230
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f0f2cd8d19ec44a9a0d6eb3b1ce1bb
+      internalID: 1542389917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_168
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 230
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192ec78e8f0a2542b57f1d023910448
+      internalID: 685808901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_169
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 234
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411fd34e2b196e248826c25d1eae6d62
+      internalID: -653464097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_170
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 230
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f1cd33afe67a41870a6c3c2bfc4fe
+      internalID: -740028888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_171
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 230
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ba47c3ca70afe46b198d1fd639ee49
+      internalID: 860738188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_172
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 230
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a50b2b4d12983d409aead53577c1ead
+      internalID: -644998763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_173
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 230
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f66dc683cd3e049bc7fcc5b3032f6b
+      internalID: -1324100495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_174
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4f802f4fc88f43b016a644ffa80d7
+      internalID: 1287532921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_175
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d9743f1b3a1b4e85b2fbe25915e84
+      internalID: 765322446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_176
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 230
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5472fe95bd91be48ba6b9a4cba192a0
+      internalID: -1447390619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_177
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 230
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6d63548e7b8442a5838c54a8e67f4
+      internalID: 1570500621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_178
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 230
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccba46cc23d6a42498489c0046f1fa19
+      internalID: -1596234889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_179
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a395a361be5164cb55fb1f4d98052a
+      internalID: 404226098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_180
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 230
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e6e500037c63042b3b88d7c624b3f1
+      internalID: 595512423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_181
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 230
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c0c24ba52580841a54dc9cb347aa44
+      internalID: 1809419567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_182
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 230
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dac655ccc1d1745ac51f7bba7b7866
+      internalID: -1200976112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_183
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 230
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d52d1e9302fa64caff8577a4f66953
+      internalID: -228743045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_184
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 230
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972f8660de3e1a48a3dcee313363291
+      internalID: -1684222405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_185
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 230
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c0ba3a8d95f2543a8e00deeb048c36
+      internalID: -128534330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_186
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710281e16b35a094db7aa37e5d1a7896
+      internalID: 243771809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_187
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 230
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ff2b2b8b82f04c847a2fa8f7d3de5
+      internalID: -2095782074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_188
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 230
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d527b0950844e48bfcaba80c8bb4bf
+      internalID: 1291096285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_189
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 230
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25564e6ccfb13f40bf9603a3245a137
+      internalID: 86601635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_190
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 230
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6be7178eac3c74bba780056bace246
+      internalID: -73184370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_191
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 230
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b31115da973bc4bb7bc2ec98a51489
+      internalID: -182174108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros 3 - Mario Luigi_192
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 230
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf97b01e8064f9f4ca0652d69060d021
+      internalID: -1528830670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros 3 - Mario Luigi_0: 1081679588
+      NES - Super Mario Bros 3 - Mario Luigi_1: 42996755
+      NES - Super Mario Bros 3 - Mario Luigi_10: -1801287633
+      NES - Super Mario Bros 3 - Mario Luigi_100: -1985579715
+      NES - Super Mario Bros 3 - Mario Luigi_101: -493564243
+      NES - Super Mario Bros 3 - Mario Luigi_102: -1389676834
+      NES - Super Mario Bros 3 - Mario Luigi_103: -513797029
+      NES - Super Mario Bros 3 - Mario Luigi_104: 1770890085
+      NES - Super Mario Bros 3 - Mario Luigi_105: -245638211
+      NES - Super Mario Bros 3 - Mario Luigi_106: 31828535
+      NES - Super Mario Bros 3 - Mario Luigi_107: 1837682550
+      NES - Super Mario Bros 3 - Mario Luigi_108: 395913559
+      NES - Super Mario Bros 3 - Mario Luigi_109: 415058038
+      NES - Super Mario Bros 3 - Mario Luigi_11: 1967368404
+      NES - Super Mario Bros 3 - Mario Luigi_110: 510844630
+      NES - Super Mario Bros 3 - Mario Luigi_111: -1468564153
+      NES - Super Mario Bros 3 - Mario Luigi_112: 1739426494
+      NES - Super Mario Bros 3 - Mario Luigi_113: 459414978
+      NES - Super Mario Bros 3 - Mario Luigi_114: 907585649
+      NES - Super Mario Bros 3 - Mario Luigi_115: -949486185
+      NES - Super Mario Bros 3 - Mario Luigi_116: -1309722082
+      NES - Super Mario Bros 3 - Mario Luigi_117: -646203819
+      NES - Super Mario Bros 3 - Mario Luigi_118: 1592348827
+      NES - Super Mario Bros 3 - Mario Luigi_119: -800222032
+      NES - Super Mario Bros 3 - Mario Luigi_12: -506735901
+      NES - Super Mario Bros 3 - Mario Luigi_120: -2086619336
+      NES - Super Mario Bros 3 - Mario Luigi_121: 832635979
+      NES - Super Mario Bros 3 - Mario Luigi_122: 1748153676
+      NES - Super Mario Bros 3 - Mario Luigi_123: 482234826
+      NES - Super Mario Bros 3 - Mario Luigi_124: 861881533
+      NES - Super Mario Bros 3 - Mario Luigi_125: -653601538
+      NES - Super Mario Bros 3 - Mario Luigi_126: -917071775
+      NES - Super Mario Bros 3 - Mario Luigi_127: 155897067
+      NES - Super Mario Bros 3 - Mario Luigi_128: 1043811927
+      NES - Super Mario Bros 3 - Mario Luigi_129: 1003370249
+      NES - Super Mario Bros 3 - Mario Luigi_13: 1838827464
+      NES - Super Mario Bros 3 - Mario Luigi_130: 492595238
+      NES - Super Mario Bros 3 - Mario Luigi_131: 1891088409
+      NES - Super Mario Bros 3 - Mario Luigi_132: -814664675
+      NES - Super Mario Bros 3 - Mario Luigi_133: -775156488
+      NES - Super Mario Bros 3 - Mario Luigi_134: 1471598218
+      NES - Super Mario Bros 3 - Mario Luigi_135: -745809405
+      NES - Super Mario Bros 3 - Mario Luigi_136: -1536794702
+      NES - Super Mario Bros 3 - Mario Luigi_137: -1085253426
+      NES - Super Mario Bros 3 - Mario Luigi_138: 476633191
+      NES - Super Mario Bros 3 - Mario Luigi_139: -1150800019
+      NES - Super Mario Bros 3 - Mario Luigi_14: -813102837
+      NES - Super Mario Bros 3 - Mario Luigi_140: -1691760963
+      NES - Super Mario Bros 3 - Mario Luigi_141: 2007829149
+      NES - Super Mario Bros 3 - Mario Luigi_142: -1233780945
+      NES - Super Mario Bros 3 - Mario Luigi_143: 403224012
+      NES - Super Mario Bros 3 - Mario Luigi_144: -718440947
+      NES - Super Mario Bros 3 - Mario Luigi_145: -1127869280
+      NES - Super Mario Bros 3 - Mario Luigi_146: -1873898448
+      NES - Super Mario Bros 3 - Mario Luigi_147: -794838509
+      NES - Super Mario Bros 3 - Mario Luigi_148: 1077253739
+      NES - Super Mario Bros 3 - Mario Luigi_149: -282794156
+      NES - Super Mario Bros 3 - Mario Luigi_15: -582676222
+      NES - Super Mario Bros 3 - Mario Luigi_150: 1085958825
+      NES - Super Mario Bros 3 - Mario Luigi_151: -1851246161
+      NES - Super Mario Bros 3 - Mario Luigi_152: 749842749
+      NES - Super Mario Bros 3 - Mario Luigi_153: -1540468080
+      NES - Super Mario Bros 3 - Mario Luigi_154: -1877392373
+      NES - Super Mario Bros 3 - Mario Luigi_155: 1298200335
+      NES - Super Mario Bros 3 - Mario Luigi_156: -234659529
+      NES - Super Mario Bros 3 - Mario Luigi_157: -1620516120
+      NES - Super Mario Bros 3 - Mario Luigi_158: 222484520
+      NES - Super Mario Bros 3 - Mario Luigi_159: -199719591
+      NES - Super Mario Bros 3 - Mario Luigi_16: -1245597172
+      NES - Super Mario Bros 3 - Mario Luigi_160: 1941946968
+      NES - Super Mario Bros 3 - Mario Luigi_161: 160380253
+      NES - Super Mario Bros 3 - Mario Luigi_162: -247157588
+      NES - Super Mario Bros 3 - Mario Luigi_163: -191722752
+      NES - Super Mario Bros 3 - Mario Luigi_164: 1729834487
+      NES - Super Mario Bros 3 - Mario Luigi_165: 1036183635
+      NES - Super Mario Bros 3 - Mario Luigi_166: -707389204
+      NES - Super Mario Bros 3 - Mario Luigi_167: 1542389917
+      NES - Super Mario Bros 3 - Mario Luigi_168: 685808901
+      NES - Super Mario Bros 3 - Mario Luigi_169: -653464097
+      NES - Super Mario Bros 3 - Mario Luigi_17: -1716795203
+      NES - Super Mario Bros 3 - Mario Luigi_170: -740028888
+      NES - Super Mario Bros 3 - Mario Luigi_171: 860738188
+      NES - Super Mario Bros 3 - Mario Luigi_172: -644998763
+      NES - Super Mario Bros 3 - Mario Luigi_173: -1324100495
+      NES - Super Mario Bros 3 - Mario Luigi_174: 1287532921
+      NES - Super Mario Bros 3 - Mario Luigi_175: 765322446
+      NES - Super Mario Bros 3 - Mario Luigi_176: -1447390619
+      NES - Super Mario Bros 3 - Mario Luigi_177: 1570500621
+      NES - Super Mario Bros 3 - Mario Luigi_178: -1596234889
+      NES - Super Mario Bros 3 - Mario Luigi_179: 404226098
+      NES - Super Mario Bros 3 - Mario Luigi_18: -199331591
+      NES - Super Mario Bros 3 - Mario Luigi_180: 595512423
+      NES - Super Mario Bros 3 - Mario Luigi_181: 1809419567
+      NES - Super Mario Bros 3 - Mario Luigi_182: -1200976112
+      NES - Super Mario Bros 3 - Mario Luigi_183: -228743045
+      NES - Super Mario Bros 3 - Mario Luigi_184: -1684222405
+      NES - Super Mario Bros 3 - Mario Luigi_185: -128534330
+      NES - Super Mario Bros 3 - Mario Luigi_186: 243771809
+      NES - Super Mario Bros 3 - Mario Luigi_187: -2095782074
+      NES - Super Mario Bros 3 - Mario Luigi_188: 1291096285
+      NES - Super Mario Bros 3 - Mario Luigi_189: 86601635
+      NES - Super Mario Bros 3 - Mario Luigi_19: -2127498666
+      NES - Super Mario Bros 3 - Mario Luigi_190: -73184370
+      NES - Super Mario Bros 3 - Mario Luigi_191: -182174108
+      NES - Super Mario Bros 3 - Mario Luigi_192: -1528830670
+      NES - Super Mario Bros 3 - Mario Luigi_193: -6364276
+      NES - Super Mario Bros 3 - Mario Luigi_194: 567480986
+      NES - Super Mario Bros 3 - Mario Luigi_195: 1602698840
+      NES - Super Mario Bros 3 - Mario Luigi_196: -172957901
+      NES - Super Mario Bros 3 - Mario Luigi_197: 312078977
+      NES - Super Mario Bros 3 - Mario Luigi_198: 2134224981
+      NES - Super Mario Bros 3 - Mario Luigi_199: -1867908495
+      NES - Super Mario Bros 3 - Mario Luigi_2: 1746957507
+      NES - Super Mario Bros 3 - Mario Luigi_20: 2009070676
+      NES - Super Mario Bros 3 - Mario Luigi_200: -2045639148
+      NES - Super Mario Bros 3 - Mario Luigi_201: 797176092
+      NES - Super Mario Bros 3 - Mario Luigi_202: -1712987751
+      NES - Super Mario Bros 3 - Mario Luigi_203: -1842657853
+      NES - Super Mario Bros 3 - Mario Luigi_204: -1917846468
+      NES - Super Mario Bros 3 - Mario Luigi_205: 973643989
+      NES - Super Mario Bros 3 - Mario Luigi_206: 626772699
+      NES - Super Mario Bros 3 - Mario Luigi_207: -968451042
+      NES - Super Mario Bros 3 - Mario Luigi_208: 1742068508
+      NES - Super Mario Bros 3 - Mario Luigi_209: -285966028
+      NES - Super Mario Bros 3 - Mario Luigi_21: 1212811880
+      NES - Super Mario Bros 3 - Mario Luigi_210: -786134792
+      NES - Super Mario Bros 3 - Mario Luigi_211: 1312847595
+      NES - Super Mario Bros 3 - Mario Luigi_212: -1069469464
+      NES - Super Mario Bros 3 - Mario Luigi_213: 1386213400
+      NES - Super Mario Bros 3 - Mario Luigi_214: 27156443
+      NES - Super Mario Bros 3 - Mario Luigi_215: 1665326377
+      NES - Super Mario Bros 3 - Mario Luigi_216: 145990443
+      NES - Super Mario Bros 3 - Mario Luigi_217: -2115702105
+      NES - Super Mario Bros 3 - Mario Luigi_218: 255589938
+      NES - Super Mario Bros 3 - Mario Luigi_219: 371409128
+      NES - Super Mario Bros 3 - Mario Luigi_22: -2033717471
+      NES - Super Mario Bros 3 - Mario Luigi_220: -357139522
+      NES - Super Mario Bros 3 - Mario Luigi_221: -241281416
+      NES - Super Mario Bros 3 - Mario Luigi_222: -1332768498
+      NES - Super Mario Bros 3 - Mario Luigi_223: -130546250
+      NES - Super Mario Bros 3 - Mario Luigi_224: -820864174
+      NES - Super Mario Bros 3 - Mario Luigi_225: 712603640
+      NES - Super Mario Bros 3 - Mario Luigi_226: 1011080967
+      NES - Super Mario Bros 3 - Mario Luigi_227: -798496711
+      NES - Super Mario Bros 3 - Mario Luigi_228: 30797583
+      NES - Super Mario Bros 3 - Mario Luigi_229: 1788199834
+      NES - Super Mario Bros 3 - Mario Luigi_23: -1330747400
+      NES - Super Mario Bros 3 - Mario Luigi_230: -1840136143
+      NES - Super Mario Bros 3 - Mario Luigi_231: 2095991362
+      NES - Super Mario Bros 3 - Mario Luigi_232: 1743943146
+      NES - Super Mario Bros 3 - Mario Luigi_233: 2048999355
+      NES - Super Mario Bros 3 - Mario Luigi_234: 1949447313
+      NES - Super Mario Bros 3 - Mario Luigi_235: -760215145
+      NES - Super Mario Bros 3 - Mario Luigi_236: 322299762
+      NES - Super Mario Bros 3 - Mario Luigi_237: -1456591427
+      NES - Super Mario Bros 3 - Mario Luigi_238: -1938807469
+      NES - Super Mario Bros 3 - Mario Luigi_239: -1651767030
+      NES - Super Mario Bros 3 - Mario Luigi_24: -675866913
+      NES - Super Mario Bros 3 - Mario Luigi_240: -337963197
+      NES - Super Mario Bros 3 - Mario Luigi_241: 1766113475
+      NES - Super Mario Bros 3 - Mario Luigi_242: 1080622222
+      NES - Super Mario Bros 3 - Mario Luigi_243: 1807207426
+      NES - Super Mario Bros 3 - Mario Luigi_244: 716485161
+      NES - Super Mario Bros 3 - Mario Luigi_245: 1159879759
+      NES - Super Mario Bros 3 - Mario Luigi_246: -2011571777
+      NES - Super Mario Bros 3 - Mario Luigi_247: 1635629637
+      NES - Super Mario Bros 3 - Mario Luigi_248: -1814175164
+      NES - Super Mario Bros 3 - Mario Luigi_249: 2115492505
+      NES - Super Mario Bros 3 - Mario Luigi_25: 990694898
+      NES - Super Mario Bros 3 - Mario Luigi_250: 1646953599
+      NES - Super Mario Bros 3 - Mario Luigi_251: -1833728995
+      NES - Super Mario Bros 3 - Mario Luigi_252: 1985165516
+      NES - Super Mario Bros 3 - Mario Luigi_253: -2146755475
+      NES - Super Mario Bros 3 - Mario Luigi_254: -418292435
+      NES - Super Mario Bros 3 - Mario Luigi_255: -2139791933
+      NES - Super Mario Bros 3 - Mario Luigi_256: 1907605204
+      NES - Super Mario Bros 3 - Mario Luigi_257: 2035248147
+      NES - Super Mario Bros 3 - Mario Luigi_258: -1228388249
+      NES - Super Mario Bros 3 - Mario Luigi_259: -604567053
+      NES - Super Mario Bros 3 - Mario Luigi_26: -1742669085
+      NES - Super Mario Bros 3 - Mario Luigi_260: -869408248
+      NES - Super Mario Bros 3 - Mario Luigi_261: 686135855
+      NES - Super Mario Bros 3 - Mario Luigi_262: 174464826
+      NES - Super Mario Bros 3 - Mario Luigi_263: 127212052
+      NES - Super Mario Bros 3 - Mario Luigi_264: 274237753
+      NES - Super Mario Bros 3 - Mario Luigi_265: -933037785
+      NES - Super Mario Bros 3 - Mario Luigi_266: -1384879696
+      NES - Super Mario Bros 3 - Mario Luigi_267: 328533622
+      NES - Super Mario Bros 3 - Mario Luigi_268: -2055366147
+      NES - Super Mario Bros 3 - Mario Luigi_269: 1376493908
+      NES - Super Mario Bros 3 - Mario Luigi_27: -95766117
+      NES - Super Mario Bros 3 - Mario Luigi_270: 1757055558
+      NES - Super Mario Bros 3 - Mario Luigi_271: 1338092506
+      NES - Super Mario Bros 3 - Mario Luigi_272: 410363392
+      NES - Super Mario Bros 3 - Mario Luigi_273: 356634435
+      NES - Super Mario Bros 3 - Mario Luigi_274: -1858931822
+      NES - Super Mario Bros 3 - Mario Luigi_275: -188578300
+      NES - Super Mario Bros 3 - Mario Luigi_276: 1713020850
+      NES - Super Mario Bros 3 - Mario Luigi_277: 1673832246
+      NES - Super Mario Bros 3 - Mario Luigi_278: -1167237339
+      NES - Super Mario Bros 3 - Mario Luigi_279: -2047667055
+      NES - Super Mario Bros 3 - Mario Luigi_28: -1949870869
+      NES - Super Mario Bros 3 - Mario Luigi_280: 436020053
+      NES - Super Mario Bros 3 - Mario Luigi_281: -1208498125
+      NES - Super Mario Bros 3 - Mario Luigi_282: -1954005363
+      NES - Super Mario Bros 3 - Mario Luigi_283: 1110413167
+      NES - Super Mario Bros 3 - Mario Luigi_284: 447067365
+      NES - Super Mario Bros 3 - Mario Luigi_285: 821198253
+      NES - Super Mario Bros 3 - Mario Luigi_286: -1281812406
+      NES - Super Mario Bros 3 - Mario Luigi_287: 2064140431
+      NES - Super Mario Bros 3 - Mario Luigi_288: 675211409
+      NES - Super Mario Bros 3 - Mario Luigi_289: -2110942216
+      NES - Super Mario Bros 3 - Mario Luigi_29: 1907200635
+      NES - Super Mario Bros 3 - Mario Luigi_290: 1213455501
+      NES - Super Mario Bros 3 - Mario Luigi_291: -210093968
+      NES - Super Mario Bros 3 - Mario Luigi_292: -1351720866
+      NES - Super Mario Bros 3 - Mario Luigi_293: 1591633034
+      NES - Super Mario Bros 3 - Mario Luigi_294: -1891636468
+      NES - Super Mario Bros 3 - Mario Luigi_295: 1203009950
+      NES - Super Mario Bros 3 - Mario Luigi_296: 790007353
+      NES - Super Mario Bros 3 - Mario Luigi_297: -1096138909
+      NES - Super Mario Bros 3 - Mario Luigi_298: -1912074916
+      NES - Super Mario Bros 3 - Mario Luigi_299: 1887122474
+      NES - Super Mario Bros 3 - Mario Luigi_3: 1008688305
+      NES - Super Mario Bros 3 - Mario Luigi_30: -1440017547
+      NES - Super Mario Bros 3 - Mario Luigi_300: 658038553
+      NES - Super Mario Bros 3 - Mario Luigi_301: 2077822218
+      NES - Super Mario Bros 3 - Mario Luigi_302: -1917326530
+      NES - Super Mario Bros 3 - Mario Luigi_303: -1763499895
+      NES - Super Mario Bros 3 - Mario Luigi_304: -344793523
+      NES - Super Mario Bros 3 - Mario Luigi_305: -1845709331
+      NES - Super Mario Bros 3 - Mario Luigi_306: -434155312
+      NES - Super Mario Bros 3 - Mario Luigi_307: 583975941
+      NES - Super Mario Bros 3 - Mario Luigi_308: -797466760
+      NES - Super Mario Bros 3 - Mario Luigi_309: 1894164192
+      NES - Super Mario Bros 3 - Mario Luigi_31: -661936500
+      NES - Super Mario Bros 3 - Mario Luigi_310: 632610083
+      NES - Super Mario Bros 3 - Mario Luigi_311: -634150230
+      NES - Super Mario Bros 3 - Mario Luigi_312: 606766340
+      NES - Super Mario Bros 3 - Mario Luigi_313: -1345437235
+      NES - Super Mario Bros 3 - Mario Luigi_314: 759319432
+      NES - Super Mario Bros 3 - Mario Luigi_315: -838285381
+      NES - Super Mario Bros 3 - Mario Luigi_316: -1556885210
+      NES - Super Mario Bros 3 - Mario Luigi_317: -1083725842
+      NES - Super Mario Bros 3 - Mario Luigi_318: -968760546
+      NES - Super Mario Bros 3 - Mario Luigi_319: 1203105848
+      NES - Super Mario Bros 3 - Mario Luigi_32: 908403897
+      NES - Super Mario Bros 3 - Mario Luigi_320: -2144828874
+      NES - Super Mario Bros 3 - Mario Luigi_321: -153604025
+      NES - Super Mario Bros 3 - Mario Luigi_322: 942318330
+      NES - Super Mario Bros 3 - Mario Luigi_323: -432815524
+      NES - Super Mario Bros 3 - Mario Luigi_324: 1159312396
+      NES - Super Mario Bros 3 - Mario Luigi_325: 844271986
+      NES - Super Mario Bros 3 - Mario Luigi_326: -703493699
+      NES - Super Mario Bros 3 - Mario Luigi_327: -716679126
+      NES - Super Mario Bros 3 - Mario Luigi_328: 2033828699
+      NES - Super Mario Bros 3 - Mario Luigi_329: -1262475060
+      NES - Super Mario Bros 3 - Mario Luigi_33: 2073669052
+      NES - Super Mario Bros 3 - Mario Luigi_330: -1437083961
+      NES - Super Mario Bros 3 - Mario Luigi_331: 366993200
+      NES - Super Mario Bros 3 - Mario Luigi_332: 1515693423
+      NES - Super Mario Bros 3 - Mario Luigi_333: -2009277465
+      NES - Super Mario Bros 3 - Mario Luigi_334: -1845056181
+      NES - Super Mario Bros 3 - Mario Luigi_335: 1306842814
+      NES - Super Mario Bros 3 - Mario Luigi_336: 1094721410
+      NES - Super Mario Bros 3 - Mario Luigi_337: 1592765352
+      NES - Super Mario Bros 3 - Mario Luigi_338: 1059323574
+      NES - Super Mario Bros 3 - Mario Luigi_339: 166645093
+      NES - Super Mario Bros 3 - Mario Luigi_34: 2086507943
+      NES - Super Mario Bros 3 - Mario Luigi_340: 799435524
+      NES - Super Mario Bros 3 - Mario Luigi_341: -946153538
+      NES - Super Mario Bros 3 - Mario Luigi_342: -199069167
+      NES - Super Mario Bros 3 - Mario Luigi_343: -1938056753
+      NES - Super Mario Bros 3 - Mario Luigi_344: -17538753
+      NES - Super Mario Bros 3 - Mario Luigi_345: -1051497773
+      NES - Super Mario Bros 3 - Mario Luigi_346: 1693627938
+      NES - Super Mario Bros 3 - Mario Luigi_347: 1667162606
+      NES - Super Mario Bros 3 - Mario Luigi_348: -1020651929
+      NES - Super Mario Bros 3 - Mario Luigi_349: -1838260392
+      NES - Super Mario Bros 3 - Mario Luigi_35: 1043869765
+      NES - Super Mario Bros 3 - Mario Luigi_350: -1305631244
+      NES - Super Mario Bros 3 - Mario Luigi_351: -1705539179
+      NES - Super Mario Bros 3 - Mario Luigi_352: -450012391
+      NES - Super Mario Bros 3 - Mario Luigi_353: -1146333403
+      NES - Super Mario Bros 3 - Mario Luigi_354: 1503306393
+      NES - Super Mario Bros 3 - Mario Luigi_355: -552969964
+      NES - Super Mario Bros 3 - Mario Luigi_356: -1955170080
+      NES - Super Mario Bros 3 - Mario Luigi_357: -1068497406
+      NES - Super Mario Bros 3 - Mario Luigi_358: 1568982348
+      NES - Super Mario Bros 3 - Mario Luigi_359: 1013402589
+      NES - Super Mario Bros 3 - Mario Luigi_36: 704675744
+      NES - Super Mario Bros 3 - Mario Luigi_360: 904979842
+      NES - Super Mario Bros 3 - Mario Luigi_361: -10769523
+      NES - Super Mario Bros 3 - Mario Luigi_362: 524038621
+      NES - Super Mario Bros 3 - Mario Luigi_363: -643090074
+      NES - Super Mario Bros 3 - Mario Luigi_364: 683634530
+      NES - Super Mario Bros 3 - Mario Luigi_365: 147881457
+      NES - Super Mario Bros 3 - Mario Luigi_366: -1914646320
+      NES - Super Mario Bros 3 - Mario Luigi_367: 2129061634
+      NES - Super Mario Bros 3 - Mario Luigi_368: 195275498
+      NES - Super Mario Bros 3 - Mario Luigi_369: -403038933
+      NES - Super Mario Bros 3 - Mario Luigi_37: 1855161132
+      NES - Super Mario Bros 3 - Mario Luigi_370: 1180548352
+      NES - Super Mario Bros 3 - Mario Luigi_371: 1033282527
+      NES - Super Mario Bros 3 - Mario Luigi_372: -1575567362
+      NES - Super Mario Bros 3 - Mario Luigi_373: -1422441036
+      NES - Super Mario Bros 3 - Mario Luigi_374: 964403703
+      NES - Super Mario Bros 3 - Mario Luigi_375: 402767947
+      NES - Super Mario Bros 3 - Mario Luigi_376: -627404977
+      NES - Super Mario Bros 3 - Mario Luigi_377: -1426350348
+      NES - Super Mario Bros 3 - Mario Luigi_378: 2029601052
+      NES - Super Mario Bros 3 - Mario Luigi_379: 1152429888
+      NES - Super Mario Bros 3 - Mario Luigi_38: 1214643897
+      NES - Super Mario Bros 3 - Mario Luigi_380: -631026443
+      NES - Super Mario Bros 3 - Mario Luigi_381: 263204846
+      NES - Super Mario Bros 3 - Mario Luigi_382: -906247391
+      NES - Super Mario Bros 3 - Mario Luigi_383: -1900727165
+      NES - Super Mario Bros 3 - Mario Luigi_384: 334357754
+      NES - Super Mario Bros 3 - Mario Luigi_385: -379415422
+      NES - Super Mario Bros 3 - Mario Luigi_386: -624216023
+      NES - Super Mario Bros 3 - Mario Luigi_387: 1684318724
+      NES - Super Mario Bros 3 - Mario Luigi_388: 1411037457
+      NES - Super Mario Bros 3 - Mario Luigi_389: -5802462
+      NES - Super Mario Bros 3 - Mario Luigi_39: 1913471862
+      NES - Super Mario Bros 3 - Mario Luigi_4: 1519618786
+      NES - Super Mario Bros 3 - Mario Luigi_40: 549880226
+      NES - Super Mario Bros 3 - Mario Luigi_41: 375159539
+      NES - Super Mario Bros 3 - Mario Luigi_42: 1636291689
+      NES - Super Mario Bros 3 - Mario Luigi_43: 1975304399
+      NES - Super Mario Bros 3 - Mario Luigi_44: 1814108216
+      NES - Super Mario Bros 3 - Mario Luigi_45: -1978822516
+      NES - Super Mario Bros 3 - Mario Luigi_46: 458681705
+      NES - Super Mario Bros 3 - Mario Luigi_47: -304905273
+      NES - Super Mario Bros 3 - Mario Luigi_48: 1025493782
+      NES - Super Mario Bros 3 - Mario Luigi_49: -996879891
+      NES - Super Mario Bros 3 - Mario Luigi_5: 306092809
+      NES - Super Mario Bros 3 - Mario Luigi_50: -1067329703
+      NES - Super Mario Bros 3 - Mario Luigi_51: 763456694
+      NES - Super Mario Bros 3 - Mario Luigi_52: -1504495138
+      NES - Super Mario Bros 3 - Mario Luigi_53: -488062203
+      NES - Super Mario Bros 3 - Mario Luigi_54: -1206899568
+      NES - Super Mario Bros 3 - Mario Luigi_55: 659999429
+      NES - Super Mario Bros 3 - Mario Luigi_56: 1150112877
+      NES - Super Mario Bros 3 - Mario Luigi_57: 1516383003
+      NES - Super Mario Bros 3 - Mario Luigi_58: -78001946
+      NES - Super Mario Bros 3 - Mario Luigi_59: 533924676
+      NES - Super Mario Bros 3 - Mario Luigi_6: -639386672
+      NES - Super Mario Bros 3 - Mario Luigi_60: -834273236
+      NES - Super Mario Bros 3 - Mario Luigi_61: 2076010257
+      NES - Super Mario Bros 3 - Mario Luigi_62: -729146298
+      NES - Super Mario Bros 3 - Mario Luigi_63: -665824783
+      NES - Super Mario Bros 3 - Mario Luigi_64: 596238111
+      NES - Super Mario Bros 3 - Mario Luigi_65: -342329216
+      NES - Super Mario Bros 3 - Mario Luigi_66: -799128094
+      NES - Super Mario Bros 3 - Mario Luigi_67: 283958644
+      NES - Super Mario Bros 3 - Mario Luigi_68: 1296681333
+      NES - Super Mario Bros 3 - Mario Luigi_69: 1060929658
+      NES - Super Mario Bros 3 - Mario Luigi_7: 482582717
+      NES - Super Mario Bros 3 - Mario Luigi_70: 1535472284
+      NES - Super Mario Bros 3 - Mario Luigi_71: -1267040258
+      NES - Super Mario Bros 3 - Mario Luigi_72: 1858695141
+      NES - Super Mario Bros 3 - Mario Luigi_73: 634207713
+      NES - Super Mario Bros 3 - Mario Luigi_74: 1903106968
+      NES - Super Mario Bros 3 - Mario Luigi_75: 1110696738
+      NES - Super Mario Bros 3 - Mario Luigi_76: 2064293758
+      NES - Super Mario Bros 3 - Mario Luigi_77: -1237665692
+      NES - Super Mario Bros 3 - Mario Luigi_78: 1798545393
+      NES - Super Mario Bros 3 - Mario Luigi_79: 1104836664
+      NES - Super Mario Bros 3 - Mario Luigi_8: 142460204
+      NES - Super Mario Bros 3 - Mario Luigi_80: 411400289
+      NES - Super Mario Bros 3 - Mario Luigi_81: 1587614807
+      NES - Super Mario Bros 3 - Mario Luigi_82: -1339581494
+      NES - Super Mario Bros 3 - Mario Luigi_83: 1242740893
+      NES - Super Mario Bros 3 - Mario Luigi_84: 440845741
+      NES - Super Mario Bros 3 - Mario Luigi_85: 1583015277
+      NES - Super Mario Bros 3 - Mario Luigi_86: -1300065989
+      NES - Super Mario Bros 3 - Mario Luigi_87: 728996699
+      NES - Super Mario Bros 3 - Mario Luigi_88: -574084286
+      NES - Super Mario Bros 3 - Mario Luigi_89: 302831156
+      NES - Super Mario Bros 3 - Mario Luigi_9: 1901310075
+      NES - Super Mario Bros 3 - Mario Luigi_90: -456101232
+      NES - Super Mario Bros 3 - Mario Luigi_91: 709442652
+      NES - Super Mario Bros 3 - Mario Luigi_92: 723272708
+      NES - Super Mario Bros 3 - Mario Luigi_93: -576617879
+      NES - Super Mario Bros 3 - Mario Luigi_94: 461625408
+      NES - Super Mario Bros 3 - Mario Luigi_95: -1589299477
+      NES - Super Mario Bros 3 - Mario Luigi_96: -181756033
+      NES - Super Mario Bros 3 - Mario Luigi_97: 1611682524
+      NES - Super Mario Bros 3 - Mario Luigi_98: -114374944
+      NES - Super Mario Bros 3 - Mario Luigi_99: -1632030475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
