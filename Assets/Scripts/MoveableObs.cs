@@ -41,4 +41,6 @@ public class MoveableObs : MonoBehaviour, ICycleMovebale
         }
 
     }
+
+
 }

@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3763636401735189197}
   - component: {fileID: 2565737947246008596}
-  - component: {fileID: -3203912196546276250}
+  - component: {fileID: 405870505093178437}
   m_Layer: 0
   m_Name: ThreePatches
   m_TagString: Untagged
@@ -85,22 +85,15 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!50 &-3203912196546276250
-Rigidbody2D:
-  serializedVersion: 4
+--- !u!68 &405870505093178437
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6283147142475915892}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_Enabled: 1
+  m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -108,7 +101,34 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.9166221, y: -0.15874676}
+  - {x: 0.17104244, y: -0.15930805}
+  - {x: -0.59372234, y: -0.15248248}
+  - {x: -0.6014519, y: 0.15909216}
+  - {x: 0.49916172, y: 0.15523776}
+  - {x: -0.2793026, y: 0.16132732}
+  - {x: -0.2859125, y: 0.47620243}
+  - {x: 0.8321828, y: 0.47624034}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
