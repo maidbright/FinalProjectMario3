@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class LittleMario_movement : MonoBehaviour
 {
@@ -25,10 +26,6 @@ public class LittleMario_movement : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(Rb2D.position, Vector2.down, rayDistance, LayerMask.GetMask("Ground"));
         isGround = hit.collider != null ? true : false;
 
-    }
-    void FixedUpdate()
-    {
-
         if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) > 0)
         {
             Run(Input.GetAxisRaw("Horizontal"));
@@ -50,14 +47,14 @@ public class LittleMario_movement : MonoBehaviour
 
         if (inputX < 0 && !PlayerRend.flipX)
         {
-            PlayerAnim.SetBool("Back", true);
+            PlayerAnim.SetTrigger("Rotate");
             PlayerRend.flipX = true;
         }
         else if ((inputX > 0 && PlayerRend.flipX))
         {
             PlayerRend.flipX = false;
         }
-        PlayerAnim.SetBool("Back", false); //????
+
         PlayerAnim.SetFloat("Run", 1);
         Rb2D.velocity = new Vector2(inputX * runSpeed, Rb2D.velocity.y);
     }
