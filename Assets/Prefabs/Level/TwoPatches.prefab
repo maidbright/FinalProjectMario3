@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9136403927769517616}
   - component: {fileID: 2689594066289553347}
   - component: {fileID: -8426616162993161866}
-  - component: {fileID: 795371751416318904}
+  - component: {fileID: 2100032124913703305}
   m_Layer: 0
   m_Name: TwoPatches
   m_TagString: Untagged
@@ -130,30 +130,22 @@ EdgeCollider2D:
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
---- !u!50 &795371751416318904
-Rigidbody2D:
-  serializedVersion: 4
+--- !u!251 &2100032124913703305
+PlatformEffector2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 54420320197731986}
-  m_BodyType: 2
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
+  m_Enabled: 1
+  m_UseColliderMask: 1
+  m_ColliderMask:
     serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+    m_Bits: 4294967295
+  m_RotationalOffset: 0
+  m_UseOneWay: 1
+  m_UseOneWayGrouping: 0
+  m_SurfaceArc: 180
+  m_UseSideFriction: 0
+  m_UseSideBounce: 0
+  m_SideArc: 1

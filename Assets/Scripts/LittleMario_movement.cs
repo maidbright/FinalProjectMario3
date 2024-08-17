@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
@@ -10,8 +11,9 @@ public class LittleMario_movement : MonoBehaviour
     private CapsuleCollider2D collider2D;
     private Animator animator;
     private SpriteRenderer renderer;
+    private GameObject currentPlatform;
 
-    [SerializeField] private float runSpeed = 1.3f;
+    [SerializeField] private float runSpeed = .6f;
     [SerializeField] private float jumpForce = 3.0f;
     [SerializeField] private bool isGround = true;
     [SerializeField] private float rayDistance = 0.1f;
@@ -38,8 +40,18 @@ public class LittleMario_movement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && isGround)
         {
             Jump();
+            if (currentPlatform != null)
+            { StartCoroutine(DisableCollision()); }
         }
 
+    }
+
+    public IEnumerator DisableCollision() //when on platform -- ognore collision
+    {
+        EdgeCollider2D platformColl = currentPlatform.GetComponent<EdgeCollider2D>();
+        Physics2D.IgnoreCollision(CapsuleCollider2D, platformColl);
+        yield return new WaitForSeconds(0.25f);
+        Physics2D.IgnoreCollision(CapsuleCollider2D, platformColl, false);
     }
 
     void Run(float inputX)
@@ -81,17 +93,25 @@ public class LittleMario_movement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "MovingGround") //???
+        if (collision.gameObject.layer == 7)
         {
             this.transform.parent = collision.transform;
+        }
+        if (collision.gameObject.layer == 9)
+        {
+            currentPlatform = collision.gameObject;
         }
     }
 
     private void OnCollisionExit2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "MovingGround")
+        if (collision.gameObject.layer == 7)
         {
             this.transform.parent = null;
+        }
+        if (collision.gameObject.layer == 9)
+        {
+            currentPlatform = null;
         }
     }
 
