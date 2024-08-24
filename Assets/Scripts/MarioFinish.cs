@@ -6,10 +6,9 @@ public class MarioFinish : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.layer == 10)
+        if(collision.gameObject.layer == LayerMask.NameToLayer("Finish") && GameManager.Instance.timeLeft > 0)
         {
-            new WaitForSeconds(5.0f);
-            LevelTransition.ChangeScene(0);
+            GameManager.Instance.ExitGame();
         }
     }
 }

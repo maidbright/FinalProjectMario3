@@ -16,12 +16,10 @@ public class Mainmenu : MonoBehaviour
 
     public void StartGame()
     {
-        //Debug.Log("StartClicked");
         SceneManager.LoadScene(0);
     }
     public void ExitGame()
     {
-        //Debug.Log("EndClicked");
         Application.Quit();
     }
 }

@@ -8,5 +8,9 @@ public class LevelTransition : MonoBehaviour
     {
         SceneManager.LoadScene(scene);
     }
+    public static void Reload() 
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex, LoadSceneMode.Single);
+    }
 
 }
