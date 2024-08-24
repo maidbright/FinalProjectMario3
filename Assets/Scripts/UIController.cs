@@ -32,13 +32,13 @@ public class UIController : MonoBehaviour
         }
         if (lifes != GameManager.Instance.lifes)
         {
-            lifes += GameManager.Instance.lifes;
+            lifes = GameManager.Instance.lifes;
             lifesText.text = "Lifes: "+ lifes;
         }
         timerText = GameManager.Instance.timerText;
         if (score != GameManager.Instance.score)
         {
-            score += GameManager.Instance.score;
+            score = GameManager.Instance.score;
             scoreText.text = "Score: "+ score;
         }
     }

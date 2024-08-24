@@ -8,5 +8,6 @@ public class FinishRewardProfit : Reward
     public override void RewardProfit()
     {
         GameManager.Instance.UpdateScore(ScorePoint);
+        Invoke("GameManager.Instance.ExitGame",2.0f);
     }
 }

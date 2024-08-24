@@ -16,7 +16,7 @@ public class Mainmenu : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene(0);
+        LevelTransition.ChangeScene(0); //go to map
     }
     public void ExitGame()
     {

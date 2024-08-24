@@ -16,7 +16,7 @@ public class Fireball : MonoBehaviour
 
     private void OnEnable()
     {
-        Invoke(nameof(Deactivate), 2.0f);
+        Invoke(nameof(Deactivate), 2.5f);
     }
 
     private void Deactivate()

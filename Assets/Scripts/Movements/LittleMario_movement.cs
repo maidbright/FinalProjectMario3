@@ -95,6 +95,7 @@ public class LittleMario_movement : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer("MovingGround"))
         {
             this.transform.parent = collision.transform;
+            isGround = true;
         }
         if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
@@ -107,6 +108,7 @@ public class LittleMario_movement : MonoBehaviour
         if (collision.gameObject.layer == LayerMask.NameToLayer("MovingGround"))
         {
             this.transform.parent = null;
+            isGround = false;
         }
         if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {

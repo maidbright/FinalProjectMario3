@@ -28,7 +28,7 @@ public class PiranyaMovement : MoveableObs
             {
                 Shooter.Shoot();
 
-                yield return new WaitForSeconds(15.0f);
+                yield return new WaitForSeconds(7.0f);
 
                 velocity.y = -SpeedMove; //one step
 
