@@ -4,7 +4,7 @@ using UnityEngine;
 public abstract class MoveableObs : MonoBehaviour
 {
     protected float _distance;
-    protected float _speedMove =.2f;
+    protected float _speedMove =.3f;
     protected abstract float Distance { get; }
     protected virtual float SpeedMove { get; set; }
 

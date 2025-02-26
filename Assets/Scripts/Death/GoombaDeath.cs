@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Drawing;
 using UnityEngine;
 
 public class GoombaDeath : Death
 {
+    private GoombaMovement goombaMovementInstance;
+    public GoombaMovement GoombaMovementInstance { get { return goombaMovementInstance = goombaMovementInstance ?? GetComponent<GoombaMovement>(); } } 
     private void OnCollisionEnter2D(Collision2D collision)
     {
         DeathBy(collision, "Player"); 
@@ -15,14 +18,13 @@ public class GoombaDeath : Death
         {
             foreach (ContactPoint2D point in collision.contacts)
             {
-                if (point.normal.y >= 1.6f)
-                {
-                    Debug.Log($"{point.normal.y}");
+                Debug.Log($"Goomba {point.normal.y},{point.normal.x}");
+                if (point.normal.y < 0 && point.normal.x <0)  
+                    goombaMovementInstance.StopAllCoroutines();
                     d_Anim.SetBool("IsDead", true);
-                    d_CapsuleCollider2D.enabled = false; //for absence collision after goombadeath 
-                    Destroy(this.gameObject, 1.5f);
+                    Destroy(this.gameObject, 1.7f);
                     break;
-                }
+                
             }
         }
     }

@@ -31,9 +31,10 @@ public class MarioDeath : Death
         {
             foreach (ContactPoint2D point in collision.contacts)
             {
-                if (point.normal.y < 0.2f) //custommethod
+                if (point.normal.y == 0 && point.normal.x != 0) //custommethod
                 {
                     d_Anim.SetTrigger("Dead");
+                    ///ÇÀÄÅÐÆÊÀ
                     GameManager.Instance.GameOver();
                     break;
                 }

@@ -25,7 +25,7 @@ public class LittleMario_movement : MonoBehaviour
 
     void Update()
     {
-        RaycastHit2D hit = Physics2D.Raycast(Rb2D.position, Vector2.down, rayDistance, LayerMask.GetMask("Ground"));
+        RaycastHit2D hit = Physics2D.Raycast(Rb2D.position, Vector2.down, rayDistance, LayerMask.GetMask("Ground"));  // LayerMask.GetMask("Ground")
         isGround = hit.collider != null ? true : false;
 
         if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) > 0)
@@ -46,7 +46,7 @@ public class LittleMario_movement : MonoBehaviour
 
     }
 
-    public IEnumerator DisableCollision() //when on platform -- ognore collision
+    public IEnumerator DisableCollision() //when on platform -- ognore collision ?????
     {
         EdgeCollider2D platformColl = currentPlatform.GetComponent<EdgeCollider2D>();
         Physics2D.IgnoreCollision(CapsuleCollider2D, platformColl);
@@ -90,14 +90,15 @@ public class LittleMario_movement : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter2D(Collision2D collision) 
+    private void OnCollisionEnter2D(Collision2D collision)  //mov grounds colls
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer("MovingGround"))
+        if (collision.gameObject.tag == "MovingGround")
         {
             this.transform.parent = collision.transform;
+            currentPlatform = collision.gameObject;
             isGround = true;
         }
-        if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
+        if (collision.gameObject.tag == "Ground")
         {
             currentPlatform = collision.gameObject;
         }
@@ -105,15 +106,16 @@ public class LittleMario_movement : MonoBehaviour
 
     private void OnCollisionExit2D(Collision2D collision) 
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer("MovingGround"))
+        if (collision.gameObject.tag == "MovingGround")
         {
             this.transform.parent = null;
+            currentPlatform = null;
             isGround = false;
         }
-        if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
+        if (collision.gameObject.tag == "Ground")
         {
             currentPlatform = null;
         }
-    }
+    } //mov grounds colls
 
 }
