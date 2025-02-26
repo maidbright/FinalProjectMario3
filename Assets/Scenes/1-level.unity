@@ -5054,11 +5054,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.376
+      value: -9.885
       objectReference: {fileID: 0}
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.40954238
+      value: -0.21
       objectReference: {fileID: 0}
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5374,11 +5374,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.212241
+      value: -9.36024
       objectReference: {fileID: 0}
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.40954232
+      value: -0.22199994
       objectReference: {fileID: 0}
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5411,6 +5411,14 @@ PrefabInstance:
     - target: {fileID: 729487654962520305, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849388484185230598, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849388484185230598, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
+      propertyPath: m_UsedByEffector
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2143622809632345604, guid: 0e5ded20776e19e4191ab5abba032812, type: 3}
       propertyPath: m_Name
@@ -13506,6 +13514,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4479335520608597205, guid: 9fac436347086fa46b100bee38196ffb, type: 3}
+      propertyPath: m_UsedByEffector
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6874256201366342272, guid: 9fac436347086fa46b100bee38196ffb, type: 3}
       propertyPath: m_Name
       value: NES - Super Mario Bros 3 - Background_5
@@ -14578,7 +14590,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4369568301830972295, guid: 83a90de3de1a2a8419b7f7031ccccdcb, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4369568301830972295, guid: 83a90de3de1a2a8419b7f7031ccccdcb, type: 3}
       propertyPath: m_TagString
@@ -14631,6 +14643,10 @@ PrefabInstance:
     - target: {fileID: 8535884626891991709, guid: 83a90de3de1a2a8419b7f7031ccccdcb, type: 3}
       propertyPath: m_Size.y
       value: 0.15656741
+      objectReference: {fileID: 0}
+    - target: {fileID: 8535884626891991709, guid: 83a90de3de1a2a8419b7f7031ccccdcb, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8535884626891991709, guid: 83a90de3de1a2a8419b7f7031ccccdcb, type: 3}
       propertyPath: m_Offset.x
