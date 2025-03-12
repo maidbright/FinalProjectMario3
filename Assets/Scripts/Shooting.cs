@@ -10,7 +10,7 @@ public class Shooting : MonoBehaviour //в зависимости от типа пули -- определени
         Fireball fireball = FireballPool.Instance.GetFireball(_firePoint.position);
         fireball.transform.SetParent(transform);
         fireball.Direction = -(fireball.transform.right + fireball.transform.up);
-        StartCoroutine(IsActiveFireBall(fireball));
+        //StartCoroutine(IsActiveFireBall(fireball));
     }
 
     public IEnumerator IsActiveFireBall(Fireball fireball)

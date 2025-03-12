@@ -64,9 +64,9 @@ public class TurtleMovement : MoveableObs
         MoveBy(collision, "Player"); 
 
     }
-    private void MoveBy(Collision2D collision, string collLayer)
+    private void MoveBy(Collision2D collision, string collLayer)   //ROUNDED BY MARIO
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer(collLayer)) //by player
+        if (collision.gameObject.layer == LayerMask.NameToLayer(collLayer)) 
         {
             foreach (ContactPoint2D point in collision.contacts)
             {

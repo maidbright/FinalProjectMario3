@@ -27,7 +27,7 @@ public class MarioDeath : Death
 
     public override void DeathBy(Collision2D collision, string collLayer)
     {
-        if (collision.gameObject.layer == LayerMask.NameToLayer(collLayer)) //by enemy
+        if (collision.gameObject.layer == 8) //by enemy
         {
             foreach (ContactPoint2D point in collision.contacts)
             {
@@ -39,6 +39,12 @@ public class MarioDeath : Death
                     break;
                 }
             }
+        }
+        if (collision.gameObject.layer == 12) //by enemy_fireball
+        {
+            d_Anim.SetTrigger("Dead");
+            ///«¿ƒ≈–∆ ¿
+            GameManager.Instance.GameOver();
         }
     }
 

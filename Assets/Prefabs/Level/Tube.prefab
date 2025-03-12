@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1028580258921820872}
   - component: {fileID: 5618183542789406426}
   - component: {fileID: 1489715958378507991}
+  - component: {fileID: 1077581038024168543}
   m_Layer: 0
   m_Name: Tube
   m_TagString: Untagged
@@ -130,3 +131,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.32, y: 0.48}
   m_EdgeRadius: 0
+--- !u!114 &1077581038024168543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9034674463685664601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2efe69406dfdd4449bb2a677d3877902, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

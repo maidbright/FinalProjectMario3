@@ -8,14 +8,14 @@ public abstract class Reward : MonoBehaviour //to chnage
 
     protected float coins;
     protected float coinPoint = 1.0f;
-    protected virtual float ScorePoint { get; } = 50;
     protected float score;
+    protected virtual float ScorePoint { get; } = 50;
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.layer == 6)
         {
-            Destroy(this.gameObject, 0.2f);
+            Destroy(this.gameObject, 0.15f);
             RewardProfit();
         }
     }

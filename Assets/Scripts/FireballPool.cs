@@ -1,19 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class FireballPool : MonoBehaviour
 {
-    [SerializeField] private Fireball _fireballPrefab;
+    public static FireballPool Instance { get; private set; }
 
-    private Queue<Fireball> _fireballPool = new Queue<Fireball>();
-
-    public static FireballPool Instance { get; private set; } 
 
     private void Awake()
     {
         Instance = this;
     }
+
+    [SerializeField] private Fireball _fireballPrefab;
+
+    private Queue<Fireball> _fireballPool = new Queue<Fireball>();
+
+
 
     public Fireball GetFireball(Vector2 startPoint)
     {
@@ -34,4 +38,5 @@ public class FireballPool : MonoBehaviour
     {
         _fireballPool.Enqueue(fireball);
     }
+
 }

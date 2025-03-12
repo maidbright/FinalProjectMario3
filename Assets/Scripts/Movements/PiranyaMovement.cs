@@ -36,7 +36,7 @@ public class PiranyaMovement : MoveableObs
             
             else if (transform.position.y < startPos.y)
             {
-                yield return new WaitForSeconds(10.0f);
+                yield return new WaitForSeconds(1.0f); //to correct to 10
                 velocity.y = SpeedMove;
             }
             transform.position += (Vector3)velocity * Time.deltaTime;
@@ -44,4 +44,5 @@ public class PiranyaMovement : MoveableObs
         }
 
     }
+
 }
