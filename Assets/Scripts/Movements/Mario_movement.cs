@@ -5,7 +5,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class LittleMario_movement : MonoBehaviour
+public class Mario_movement : MonoBehaviour
 {
     private Rigidbody2D rigidbody2D;
     private CapsuleCollider2D collider2D;

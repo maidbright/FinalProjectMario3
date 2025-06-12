@@ -35,7 +35,7 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            Destroy(gameObject);  //for oneness
+            Destroy(gameObject);  
         }
     }
 
@@ -72,7 +72,6 @@ public class GameManager : MonoBehaviour
 
     public void StartGame()
     {
-        //load scene, change event in panel on canvas to this
         LevelTransition.ChangeScene(1);
     }
 
@@ -94,7 +93,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    private void UpdateTimeText()
+    private void UpdateTimeText() //format 00:00
     {
         if (timeLeft < 0)
         {
